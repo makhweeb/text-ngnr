@@ -1,0 +1,642 @@
+[
+    {
+        "instruction": "Ushbu jumlani imlo va grammatik xatolar uchun baholang",
+        "output": "Gapda ikkita imlo xatosi bor. Tuzatilgan jumla shunday bo'lishi kerak: \"U ovqatni tugatdi va restorandan chiqib ketdi\"."
+    },
+    {
+        "instruction": "Uch asosiy rang nima?",
+        "output": "Uch asosiy rang - qizil, ko'k va sariq. Bu ranglar birlamchi deb ataladi, chunki ularni boshqa ranglarni aralashtirish yo'li bilan yaratib bo'lmaydi, qolgan barcha ranglar esa ularni turli nisbatlarda birlashtirib yasalishi mumkin. Yorug'lik uchun ishlatiladigan qo'shimcha ranglar tizimida asosiy ranglar qizil, yashil va ko'kdir (RGB)."
+    },
+    {
+        "instruction": "Yuliy Tsezar qanday vafot etdi?",
+        "output": "Rim sarkardasi va davlat arbobi Yuliy Tsezar miloddan avvalgi 44 yil 15 martda o'ldirilgan. U Pompey teatrida Senat yig\u2018ilishida o\u2018zlarini ozodlikchilar deb atagan bir guruh senatorlar tomonidan pichoqlab o\u2018ldirilgan. Gay Kassiy Longinus va Mark Yuniy Brutus boshchiligida ular Qaysar diktaturasi Rim respublikasini ag'darib tashlamoqda, deb hisoblab, an'anaviy respublika hukumatini tiklashga intildilar. Hujumchilarning aniq soni ma'lum emas, ammo taxminlarga ko'ra, 60 ga yaqin fitnachilar guruhi suiqasdda ishtirok etgan va ularning har biri navbatma-navbat Qaysarni pichoqlagan. Uning vafot etgan kuni hali ham mart oyining Ides sifatida tanilgan."
+    },
+    {
+        "instruction": "Quyidagi kasr nima uchun 1\/4 ga teng ekanligini tushuntiring",
+        "output": "4\/16 kasr 1\/4 ga teng, chunki ikkala kasr ham bir xil qiymatni ifodalaydi. Kasrni son va maxrajni umumiy ko'paytmaga bo'lish orqali soddalashtirish mumkin. Bunda 4 soni 4\/16 ning pay va maxrajining umumiy koeffitsienti hisoblanadi. Ikkalasini 4 ga bo'lsak, biz 4\/4 = 1 va 16\/4 = 4 ni olamiz, shuning uchun soddalashtirilgan kasr 1\/4 ga teng. Shu bilan bir qatorda, biz buni ko'paytirish nuqtai nazaridan o'ylashimiz mumkin. Masalan, 1\/4 kasrning payini va maxrajini 4 ga ko'paytirsak, (1x4)\/(4x4), yoki 4\/16 ni olamiz. Ikkala kasr ham bir xil songa ko'paytirish yoki bo'lish orqali boshqasidan olinishi mumkinligi sababli, ular bir xil qiymatni ifodalaydi va ekvivalentdir."
+    },
+    {
+        "instruction": "O'zingizni qurilish kompaniyasining loyiha menejeri deb tasavvur qiling. Qiyin qaror qabul qilishingiz kerak bo'lgan vaqtni tasvirlab bering.",
+        "output": "Qurilish kompaniyasida loyiha menejeri bo'lib ishlaganimda qiyin qaror qabul qilishimga to'g'ri keldi. Men mijozning umidlarini qondirish uchun ma'lum bir sanagacha bajarilishi kerak bo'lgan loyihaga mas'ul edim. Biroq, kutilmagan kechikishlar tufayli biz belgilangan muddatni bajara olmadik va shuning uchun men qiyin qaror qabul qilishga majbur bo'ldim. Men muddatni uzaytirishga qaror qildim, lekin jamoaning resurslarini yanada kengaytirishim va byudjetni oshirishim kerak edi. Garchi bu xavfli qaror bo'lsa-da, men oxir-oqibat loyiha o'z vaqtida bajarilishini va mijozning kutganlarini qondirishni ta'minlash uchun uni davom ettirishga qaror qildim. Loyiha oxir-oqibat muvaffaqiyatli yakunlandi va bu mening etakchilik va qaror qabul qilish qobiliyatimning isboti sifatida qaraldi."
+    },
+    {
+        "instruction": "Quyidagilarning qisqacha xulosasini yozing:\n\"Commodore 64 (odatda C64 yoki CBM 64 nomi bilan tanilgan) Commodore Business Machine (CBM) tomonidan 1982 yil avgust oyida 595 dollar boshlang'ich narxi bilan ishlab chiqarilgan. Bu bozorda ajoyib muvaffaqiyatga erishgan 8 bitli uy kompyuteri edi. 1983-1986 yillar orasida, C64 sotuvlari taxminan 17 million dona sotilgan, bu ularni 1983-1986 yillarda barcha davrlarning eng ko'p sotilgan yagona shaxsiy kompyuter modeliga aylantirdi.\n\nBundan tashqari, Commodore 64 bozorda 30% dan 40% gacha bo'lgan ulush va yiliga 2 million dona sotilgan, IBM PC klonlari, Apple Computers va Atari kompyuterlarini ortda qoldirdi. Muvaffaqiyatiga qo'shimcha ravishda, Sem Tramiel (sobiq Atari prezidenti) 1989 yilda bergan intervyusida, ular bir necha yil davomida oyiga 400 000 C64 qurayotganliklarini aytdi. \"",
+        "output": "Commodore 64 1982-yilda Commodore Business Machine (CBM) tomonidan ishlab chiqarilgan juda muvaffaqiyatli 8-bitli uy kompyuteri bo\u02bblib, 1983-1986-yillarda taxminan 17 million dona sotilgan. U bozorda 30% dan 40% gacha bo'lgan ulush bilan hukmronlik qildi va o'z raqobatchilaridan, jumladan IBM PC klonlari, Apple Computers va Atari kompyuterlarini sotdi. O'zining eng yuqori cho'qqisida CBM bir necha yil davomida oyiga 400 000 C64 qurdi."
+    },
+    {
+        "instruction": "Sog'lom bo'lish uchun uchta maslahat bering.",
+        "output": "1. Muvozanatli va to\u2018yimli dietani iste\u2019mol qiling: taomlaringiz turli xil meva va sabzavotlar, yog\u2018siz oqsillar, to\u2018liq donalar va sog\u2018lom yog\u2018larni o\u2018z ichiga olganligiga ishonch hosil qiling. Bu tanangizni eng yaxshi ishlashi uchun zarur oziq moddalar bilan ta'minlashga yordam beradi va surunkali kasalliklarning oldini olishga yordam beradi.\n\n2. Muntazam jismoniy faoliyat bilan shug'ullaning: Jismoniy mashqlar kuchli suyaklar, mushaklar va yurak-qon tomir sog'lig'ini saqlash uchun juda muhimdir. Har hafta kamida 150 daqiqa o'rtacha aerob mashqlari yoki 75 daqiqa kuchli jismoniy mashqlarni maqsad qilib qo'ying.\n\n3. Etarlicha uxlang: etarlicha sifatli uyqu jismoniy va ruhiy farovonlik uchun juda muhimdir. Bu kayfiyatni tartibga solishga, kognitiv funktsiyani yaxshilashga yordam beradi va sog'lom o'sishni va immunitetni qo'llab-quvvatlaydi. Har kecha 7-9 soat uxlashni maqsad qiling."
+    },
+    {
+        "instruction": "Havoning ifloslanishini qanday kamaytirishimiz mumkin?",
+        "output": "Havoning ifloslanishini kamaytirishning bir necha yo'li mavjud, jumladan:\n\n1. Energiya sarfini kamaytiring: Energiyani tejash orqali biz elektr stansiyalaridan chiqadigan ifloslanish miqdorini kamaytiramiz. Bunga erishishning ba'zi usullari quyidagilardan iborat: energiya tejaydigan asboblar va yoritishni qo'llash, uylarni izolyatsiya qilish va foydalanilmayotganda chiroqlar va elektronikani o'chirish.\n\n2. Jamoat transporti yoki avtoulovdan foydalaning: Avtomobillar va yuk mashinalari ifloslanishning asosiy manbalari hisoblanadi. Jamoat transporti, avtomashinalar yoki velosipeddan foydalanish orqali siz yo'lda avtomobillar sonini kamaytirishingiz mumkin, bu esa o'z navbatida chiqindilarni kamaytiradi.\n\n3. Chiqindilarga mas'uliyat bilan munosabatda bo'ling: Chiqindilarni yoqish yoki parchalash paytida ular havoga zararli gazlarni chiqarishi mumkin. Xavfli chiqindilarni to'g'ri tashlang va iloji bo'lsa, plastmassa, qog'oz va shisha kabi materiallarni qayta ishlang.\n\n4. Toza energiya manbalarini qo'llab-quvvatlash: quyosh va shamol energiyasi kabi qayta tiklanadigan energiya manbalari juda kam yoki umuman ifloslanishni keltirib chiqarmaydi. Toza energiya kompaniyalari va loyihalarini qo'llab-quvvatlang va uyingizda qayta tiklanadigan energiya tizimlarini o'rnatish haqida o'ylab ko'ring.\n\n5. Samarali haydash: Agar siz haydashingiz kerak bo'lsa, avtomobilingiz yaxshi saqlanishiga ishonch hosil qiling va tez tezlashish va tormozlanishdan qochib, bo'sh harakatlanishni kamaytiring.\n\n6. Mahsulot tanlashga e'tibor bering: Ba'zi mahsulotlar va amaliyotlar boshqalarga qaraganda ko'proq ifloslanish chiqaradi. Ekologik toza qadoqlangan mahsulotlarni tanlang va havoga zararli kimyoviy moddalarni chiqarishi mumkin bo'lgan aerozol spreylaridan foydalanishni minimallashtirishga harakat qiling."
+    },
+    {
+        "instruction": "Atomning tuzilishini tasvirlab bering.",
+        "output": "Atom barcha moddalarning asosiy qurilish bloki bo'lib, uch turdagi zarrachalardan iborat: protonlar, neytronlar va elektronlar. Atomning tuzilishini elektronlar buluti bilan o'ralgan markazda joylashgan yadro sifatida tasvirlash mumkin.\n\nAtom yadrosi proton va neytronlardan tashkil topgan. Protonlar musbat zaryadlangan zarralar, neytronlar esa zaryadsiz neytral zarralardir. Bu zarralarning ikkalasi ham atomning markazida joylashgan va atom massasining katta qismini o'z ichiga olgan atom yadrosida joylashgan.\n\nAtom yadrosini o'rab turgan elektron buluti. Elektronlar yadro atrofida doimiy harakatda bo'lgan manfiy zaryadlangan zarralardir. Elektron buluti qobiqlarga yoki orbitallarga bo'linadi va har bir qobiq ma'lum miqdordagi elektronni ushlab turishi mumkin. Valentlik qobig'i deb ataladigan eng tashqi qobiqdagi elektronlar soni atomning kimyoviy xususiyatlarini aniqlaydi.\n\nNeytral atomda yadrodagi protonlar soni elektron bulutidagi elektronlar soniga teng, shuning uchun musbat va manfiy zaryadlar muvozanatlashadi va atomda umumiy zaryad yo'q. Atom raqami deb ham ataladigan protonlar soni atomning qaysi element ekanligini aniqlaydi."
+    },
+    {
+        "instruction": "Muhim martaba qarorini qabul qilishi kerak bo'lgan qahramon haqida uchinchi shaxs hikoyasida qisqa hikoya yozing.",
+        "output": "Sofi o\u2018z stoliga o\u2018tirar, kompyuter ekraniga bemalol tikilardi. Uning oldidagi variantlarni taroziga solib, xayoli g\u2018ash edi. Unga o'z kompaniyasida yuqori lavozimga ko'tarilish taklif qilingan edi, ammo bu butun mamlakat bo'ylab ko'chib o'tish va do'stlari va oilasini ortda qoldirib ketishni anglatardi. Shu bilan birga, uning raqib kompaniyadagi orzusi nihoyat ochildi va u suhbatga taklif qilindi.\n\nO'zining qulay hayotini ortda qoldirib, yangi va noaniq narsaga imkoniyatni qo'lga kiritish fikri Sofini xavotirga soldi, lekin ayni paytda hayajonga tushdi. U har doim tavakkal qiladigan odam edi va bu o'tmishda o'z samarasini berdi. Ammo hozir, shunday katta qarorni qabul qilgan Sofi o'zini o'zini tuta olmadi.\n\nKo'p o'ylashdan so'ng Sofi o'z tanlovini qildi. U sumkalarini yig'di, yaqinlari bilan xayrlashdi va yangi ish uchun mamlakat bo'ylab ko'chib o'tdi. Yangi shaharga va yangi kompaniya madaniyatiga moslashish birinchi bir necha oy qiyin bo'ldi. Ammo vaqt o'tishi bilan Sofi o'z faoliyati uchun eng yaxshi qarorni qabul qilganini tushundi. Ish mashaqqatli, shu bilan birga foydali edi va uni o'sish va rivojlanishga ilhomlantirgan ishtiyoqli, g'ayratli hamkasblari o'rab oldi.\n\nYakunda Sofining dadil harakati o\u2018z samarasini berdi. U o'zining yangi rolida muvaffaqiyat qozondi va yangi shahrida yangi do'stlar va aloqalar orttirdi. O\u2018tmishga nazar tashlaydigan bo\u2018lsak, Sofi tavakkal qilish va o\u2018zgarish qilish imkoniyatidan minnatdor edi va o\u2018z karerasi bo\u2018yicha to\u2018g\u2018ri qaror qabul qilganiga amin edi."
+    },
+    {
+        "instruction": "DNK nimani anglatadi?",
+        "output": "DNK deoksiribonuklein kislotasini anglatadi. Bu barcha tirik organizmlarning o'sishi, rivojlanishi, faoliyati va ko'payishida ishlatiladigan genetik ko'rsatmalarni olib yuruvchi molekuladir."
+    },
+    {
+        "instruction": "Fransiyaning poytaxti nima?",
+        "output": "Frantsiyaning poytaxti - Parij."
+    },
+    {
+        "instruction": "Bir kishiga lager safari uchun kerak bo'lishi mumkin bo'lgan o'nta narsa ro'yxatini yarating",
+        "output": "Lagerga sayohat qilish uchun odamga kerak bo'lishi mumkin bo'lgan o'nta narsa:\n\n1. Chodir - boshpana va elementlardan himoya qilish\n2. Uyqu xaltasi - uxlash vaqtida issiq va qulay bo'lish\n3. Portativ pechka yoki gulxan panjarasi - ovqat pishirish uchun\n4. Muz yoki muz paketlari bilan sovutgich - tez buziladigan oziq-ovqat va ichimliklarni sovuq holda saqlash uchun\n5. Chiroq yoki chiroq - tun davomida yorug'likni ta'minlash uchun\n6. Birinchi yordam to'plami - engil jarohatlar yoki kasalliklar uchun\n7. Xarita va kompas yoki GPS - sayohatlarda navigatsiya yoki hududni o'rganish uchun\n8. Lager stullari yoki yig'ma stullar - lager atrofida qulay o'tirish uchun\n9. Hasharotlarga qarshi vosita - hasharot chaqishidan himoya qilish uchun\n10. Quyoshdan himoya qiluvchi krem - quyosh yonishidan himoya qilish uchun."
+    },
+    {
+        "instruction": "Quyidagilarni hayvonlar, o\u2018simliklar va minerallarga ajrating",
+        "output": "Hayvonlar: fil\nO'simliklar: eman daraxti\nFoydali qazilmalari: mis rudasi"
+    },
+    {
+        "instruction": "\"Kechirim so'rash\" bilan bir xil ma'noni anglatuvchi uchta fe'l hosil qiling",
+        "output": "1. afsus bildirmoq\n2. kafforat qilmoq\n3. Tuzatish uchun"
+    },
+    {
+        "instruction": "Kompyuterning ana platasining vazifasini aytib bering",
+        "output": "Anakart, shuningdek, asosiy plata yoki tizim platasi sifatida ham tanilgan, kompyuterdagi markaziy bosilgan elektron platadir. U protsessor, operativ xotira, xotira drayverlari, kengaytirish kartalari va atrof-muhit birliklari kabi barcha turli komponentlarni birlashtirib, kompyuter uchun asosiy yoki poydevor bo'lib xizmat qiladi. Anakart ushbu komponentlar orasidagi aloqa va ma'lumotlar uzatishni boshqaradi, bu ularga birgalikda ishlash va belgilangan vazifalarni bajarish imkonini beradi.\n\nAnakart shuningdek, turli komponentlarni quvvat bilan ta'minlaydigan quvvatni tartibga solish sxemasi va ushbu komponentlarning ishlashini sinxronlashtiruvchi soat generatori kabi muhim sxemalarni o'z ichiga oladi. Shuningdek, u BIOS (asosiy kirish\/chiqarish tizimi) ni o'z ichiga oladi, u yuklash jarayonini boshqaruvchi mikrodastur va kompyuter uskunasini sozlash va boshqarish uchun interfeysni ta'minlaydi. Anakartdagi boshqa xususiyatlar o'rnatilgan tarmoq, audio va video imkoniyatlarini o'z ichiga olishi mumkin.\n\nUmuman olganda, kompyuter anakartining vazifasi kompyuterni tashkil etuvchi barcha turli komponentlarning integratsiyasi va ishlashi uchun platformani ta'minlashdan iborat bo'lib, uni har qanday hisoblash tizimining muhim qismiga aylantiradi."
+    },
+    {
+        "instruction": "Ushbu kodni qayta tuzing va sharhlar qo'shing.",
+        "output": "```\n# Bu berilgan sonning faktorialini hisoblaydigan funksiya\ndef faktorializatsiya (son):\n  # \"Faktorial\" o'zgaruvchisini 1 ga qo'ying\n  faktorial = 1\n  # Diapazon funksiyasidan foydalanib, 1 dan \u201craqam\u201dgacha takrorlang\n  diapazondagi i uchun (1, son):\n    # \"Omilli\" o'zgaruvchini iteratsiyadagi joriy raqamga ko'paytiring\n    faktorial *= i\n  # \"faktorial\" ning yakuniy qiymatini qaytaring\n  faktorialni qaytaring\n```"
+    },
+    {
+        "instruction": "Buyuk Depressiya sabablarini muhokama qiling",
+        "output": "Buyuk Depressiya 1929-1939 yillarda davom etgan iqtisodiy tanazzul davri bo'lib, uni zamonaviy tarixdagi eng uzoq davom etgan depressiyaga aylantirdi. Bu nafaqat Qo'shma Shtatlarga, balki butun dunyo mamlakatlariga ta'sir qilib, jiddiy ijtimoiy va iqtisodiy g'alayonlarga sabab bo'ldi.\n\nBuyuk Depressiyaning bir nechta asosiy sabablari bor edi, ular orasida:\n\n1. 1929 yilgi fond bozori qulashi - 1929 yil oktyabr oyida fond bozori sezilarli darajada pasayib, millionlab investorlarni yo'q qildi. Ushbu hodisa ko'pchilik tomonidan Buyuk Depressiyaning dastlabki qo'zg'atuvchisi deb hisoblanadi.\n\n2. Haddan tashqari ishlab chiqarish - 1920-yillarda ko'plab sanoat tarmoqlari iste'molchilar xohlagan yoki sotib olish imkoniyatidan ko'ra ko'proq mahsulot ishlab chiqardi. Bu oxir-oqibatda tovarlarga bo'lgan talabning pasayishiga olib keldi, bu esa ish o'rinlarining yo'qolishiga, ish haqining pasayishiga va biznesning muvaffaqiyatsizligiga olib keldi.\n\n3. Yuqori tariflar va urush qarzlari - yuqori tariflar ko'rinishidagi proteksionistik savdo siyosati jahon savdosining pasayishiga olib keldi, chunki boshqa mamlakatlar o'zlarining tariflari bilan javob qaytardilar. Bundan tashqari, ko'plab mamlakatlar urush qarzlarini to'lash uchun kurash olib bordi, bu esa iqtisodiy beqarorlikka olib keldi.\n\n4. Bank muvaffaqiyatsizliklari - tovarlarga bo'lgan talabning pasayishi natijasida ko'plab banklar bank tizimiga bo'lgan ishonchni yo'qota boshladi. Bu banklardan pullarning katta miqdorda olib qo'yilishiga olib keldi, bu esa yanada ko'proq banklarning ishdan chiqishiga sabab bo'ldi.\n\n5. Qurg'oqchilik sharoitlari - Chang bo'roni 1930-yillarda Qo'shma Shtatlarning Buyuk tekisliklari mintaqasida kuchli qurg'oqchilik va chang bo'roni edi. Bu qishloq xo'jaligiga sezilarli ta'sir ko'rsatdi, bu ko'plab fermerlarning erlarini va yashash vositalarini yo'qotishiga olib keldi, bu esa tushkunlik oqibatlarini yomonlashtirdi.\n\nUmuman olganda, Buyuk Depressiyaga iqtisodiy, ekologik va siyosiy omillarni o'z ichiga olgan omillar kombinatsiyasi sabab bo'lgan. Uning ta'siri keng tarqalib, butun dunyo bo'ylab millionlab odamlarga ta'sir qildi."
+    },
+    {
+        "instruction": "Ma'lumotlar maxfiyligi muammosiga axloqiy yechim taklif qiling",
+        "output": "Ma'lumotlar maxfiyligi muammosining axloqiy yechimlaridan biri kompaniyalardan foydalanuvchi ma'lumotlarini qanday to'plash, saqlash va ishlatish bo'yicha shaffof bo'lishini talab qiluvchi qat'iy qoidalar va standartlarni qo'llashdir. Bu shuni anglatadiki, kompaniyalar foydalanuvchilardan qanday ma'lumotlarni to'plashayotgani, nima uchun bu ma'lumotlarga muhtojligi va undan qanday foydalanishni rejalashtirayotganini aniq ko'rsatishi kerak. Shuningdek, foydalanuvchilar istalgan vaqtda o\u02bbz ma\u02bclumotlariga kirish, o\u02bbzgartirish va o\u02bbchirish huquqiga ega bo\u02bbladi.\n\nBundan tashqari, kompaniyalar foydalanuvchi ma'lumotlarini ruxsatsiz kirish va buzilishlardan himoya qilish uchun mustahkam xavfsizlik choralarini qo'llashga ustuvor ahamiyat berishlari kerak. Bu shifrlash, ko'p faktorli autentifikatsiya va muntazam xavfsizlik tekshiruvlari kabi choralarni o'z ichiga olishi mumkin. Ma'lumotlar buzilgan taqdirda, kompaniyalar javobgarlikka tortilishi va zarar ko'rgan foydalanuvchilarni o'z vaqtida xabardor qilishi kerak.\n\nBundan tashqari, foydalanuvchilarga o'z ma'lumotlari va maxfiyligi to'g'risida qaror qabul qilish huquqi berilishi kerak. Bunga ma'lumotlar maxfiyligi haqida xabardorlikni oshirish va shaxslarga o'z shaxsiy ma'lumotlarini onlayn tarzda yaxshiroq boshqarishga yordam beradigan vositalar va resurslarni taqdim etish orqali erishish mumkin.\n\nOxir oqibat, ma'lumotlar maxfiyligini ta'minlash kompaniyalar va foydalanuvchilar o'rtasidagi umumiy mas'uliyatdir. Kompaniyalar foydalanuvchi ma'lumotlarini himoya qilish majburiyatini olishlari kerak, foydalanuvchilar esa shaxsiy ma'lumotlarini himoya qilishda faol rol o'ynashlari kerak. Birgalikda ishlash orqali biz xavfsizroq va axloqiy ma'lumotlar landshaftini yaratishimiz mumkin."
+    },
+    {
+        "instruction": "Tabiiy tilni qayta ishlashda so'zlarning qo'llanilishini tushuntiring",
+        "output": "So'zlarni joylashtirish - bu so'z yoki iboralarni lug'atdan haqiqiy sonlar vektorlariga xaritalash uchun ishlatiladigan tabiiy tilni qayta ishlash texnikasining bir turi. G'oya so'zlarni uzluksiz vektor fazosida ifodalashdan iborat bo'lib, so'zlar orasidagi o'xshashlikni tegishli vektorlar orasidagi masofa bilan o'lchash mumkin. Buni Word2Vec yoki GloVe kabi algoritmlar va boshqalar yordamida amalga oshirish mumkin.\n\nSo'zlarni joylashtirishdan foydalanish tabiiy tilni qayta ishlash sohasida inqilob qildi, chunki u kompyuterlarga matnni alohida so'zlarning mavjudligi yoki yo'qligiga qarashdan ko'ra ancha mazmunliroq tushunish imkonini beradi. Misol uchun, so'zlarni joylashtirishda kompyuter \"it\" va \"kuchuk\" so'zlari bir-biri bilan chambarchas bog'liqligini, \"it\" va \"soyabon\" so'zlari esa bog'liq emasligini tushunishi mumkin.\n\nSo'zlarni o'rnatish NLPning turli vazifalarida, jumladan matn tasnifi, hissiyotlarni tahlil qilish, mashina tarjimasi, nomdagi ob'ektni tanib olish va boshqalarda qo'llaniladi. Ular chuqur o'rganish va neyron mashina tarjimasi kabi ko'plab ilg'or tilni qayta ishlash usullari uchun asos bo'lib xizmat qiladi."
+    },
+    {
+        "instruction": "Doiraning radiusi berilgan maydonni toping.",
+        "output": "Doira maydonini topish formulasi A = pr^2, bu erda \"A\" aylananing maydoni va \"r\" radiusdir. Radiusning berilgan qiymatini formulada almashtiring:\n\nA = p(4^2)\nA = 16p\n\nShunday qilib, radiusi 4 birlik bo'lgan aylananing maydoni 16p kvadrat birlikka teng."
+    },
+    {
+        "instruction": "Dunyodagi eng mashhur rassom kim?",
+        "output": "Dunyoning eng mashhur rassomi unvoni sub'ektivdir va shaxsning shaxsiy fikriga qarab farq qilishi mumkin. Biroq, ko'pchilik Italiya Uyg'onish davrining mashhur rassomi Leonardo da Vinchini dunyodagi eng mashhur rassomlardan biri deb biladi. U o'zining \"Mona Liza\" va \"So'nggi kechki ovqat\" kabi ajoyib asarlari bilan tanilgan. Dunyodagi eng mashhur rassomlar qatoriga Vinsent van Gog, Pablo Pikasso va Mikelanjelo ham kiradi."
+    },
+    {
+        "instruction": "Suvning qaynash nuqtasiga qarang.",
+        "output": "Suvning qaynash nuqtasi standart atmosfera bosimida 100 daraja Selsiy yoki Farengeyt bo'yicha 212 daraja."
+    },
+    {
+        "instruction": "Berilgan ma'lumotlarga asoslanib, gapni o'tmishdan kelajakka o'zgartirib, qayta yozing.",
+        "output": "U soatlab pianino chalib, keyin yarim tun bo'lgani uchun to'xtaydi."
+    },
+    {
+        "instruction": "Shimoliy va Janubiy Amerikani ajratuvchi uzunlik chiziqlarini aniqlang.",
+        "output": "Shimoliy va Janubiy Amerikani ajratuvchi uzunlik chizig'i 77 \u00b0 00' 0\" yoki 77 \u00b0 Vt bo'lib, u Panama-Kolumbiya chegarasi sifatida ham tanilgan."
+    },
+    {
+        "instruction": "Tasodifiy so'zlar ro'yxatini yarating.",
+        "output": "Mana o'nta tasodifiy so'zlar ro'yxati:\n\n1. so'zlash\n2. ochko'zlik\n3. Bezatish\n4. Rezonans\n5. Merkuriy\n6. Yong'in\n7. Charchamaydigan\n8. Buzg'unchi\n9. Belgilash\n10. Paragon"
+    },
+    {
+        "instruction": "Qirol Karl II ning hayoti va hukmronligini tasvirlab bering.",
+        "output": "Qirol Karl II 1660\u20141685 yillarda Angliya, Shotlandiya va Irlandiya monarxi bo\u02bblgan.1630-yil 29-mayda tug\u02bbilgan, qirol Karl I va qirolicha Genrietta Mariyaning o\u02bbg\u02bbli. Uning otasi davrida Angliyada monarxiyani qo\u2018llab-quvvatlagan qirollik tarafdorlari va uning vakolatlarini cheklashga uringan parlamentariylar o\u2018rtasida fuqarolar urushi avj oldi. Oxir-oqibat, Oliver Kromvel boshchiligidagi parlament a'zolari g'alaba qozondi va Charlz I 1649 yilda qatl etildi.\n\nCharlz II surgunga ketgan va bir muddat Frantsiya va Gollandiyada yashagan. 1660 yilda Kromvelning o'limi va Hamdo'stlik hukumati qulaganidan keyin Charlz Angliyaga taklif qilindi va taxtga qayta tiklandi.\n\nUning hukmronligi, ko'pincha qayta tiklash deb ataladi, nisbatan barqarorlik va farovonlik davri bilan ajralib turardi. Charlz Angliya cherkovini milliy cherkov sifatida qayta tikladi va u fuqarolar urushlari vayronagarchiliklaridan keyin mamlakatni qayta tiklash uchun ishladi. U, shuningdek, diniy bag'rikenglik siyosatini olib bordi, 1672 yilda Indulgentsiya deklaratsiyasini e'lon qildi, bu anglikan bo'lmagan protestantlarga ibodat qilish erkinligini berdi.\n\nCharlz ilm-fan va san'atga bo'lgan qiziqishi bilan ham tanilgan va u 1660 yilda tashkil etilgan ilmiy tashkilot Qirollik jamiyatining homiysi edi. Uning saroyi o'zining isrofgarchilik va g'ayrioddiyligi bilan mashhur edi, Charlzning o'zi esa xotinboz sifatida shuhrat qozongan.\n\nHukmronligining keyingi yillarida Charlz parlamentning, xususan, katolik tarafdori siyosati va ularning hokimiyatini chetlab o'tishga urinishlari tufayli kuchayib borayotgan qarshiliklarga duch keldi. 1678 yilda Sinov qonuni qabul qilindi, unda barcha mansabdor shaxslar katoliklikka qarshi qasamyod qilishlari kerak edi, Charlz buni istamay imzoladi.\n\nCharlz 1685-yil 6-fevralda vafot etdi va uning o\u02bbrniga uning akasi Jeyms II o\u02bbtdi. U mashhur va xarizmatik monarx sifatida esga olinadi, u bir muddat notinchlikdan keyin Angliyada barqarorlikni tiklashga yordam berdi."
+    },
+    {
+        "instruction": "Tishli moment tushunchasini tushuntiring.",
+        "output": "Tishli moment - bu statorning magnit maydoni (elektr dvigatel yoki generatordagi statsionar komponent) va rotor (aylanuvchi komponent) o'rtasidagi o'zaro ta'sir natijasida hosil bo'lgan moment. Ushbu o'zaro ta'sir stator tishlari va rotor qutblari o'rtasida magnit tortishish hosil qiladi. Ushbu stsenariy notekis aylanish momentiga olib keladi, bu esa vosita silliq aylanish o'rniga chayqalish harakatini boshdan kechirishga majbur qiladi.\n\nTikish momenti, asosan, rotor va stator o'rashlarida ko'p sonli burilishlarga ega bo'lgan motorlarda va dvigatelda kichik havo bo'shlig'iga ega bo'lganda tajribaga ega. Stator yoki rotor tirqishlarini burish yoki mos ravishda stator va rotor uyalari sonini tanlash orqali tishlash effektini kamaytirish mumkin. To'g'ri dizayn tishli momentni kamaytiradi, bu esa silliq va uzluksiz aylanishga olib keladi."
+    },
+    {
+        "instruction": "Kuba raketa inqirozi va Vetnam urushini solishtiring va taqqoslang.",
+        "output": "Kuba raketa inqirozi (1962) va Vetnam urushi (1955-1975) AQSh tarixidagi Sovuq urush davrida sodir bo'lgan ikkita muhim voqea edi. Garchi ikkala voqea ham Qo'shma Shtatlar va kommunistik kuchlar o'rtasidagi keskinlikning kuchayishi bilan tavsiflangan bo'lsa-da, ularni bir-biridan ajratib turadigan ba'zi muhim farqlar mavjud edi.\n\nKuba raketa inqirozi AQSh qirg'oqlaridan atigi 90 mil uzoqlikda joylashgan Kubada Sovet yadroviy raketalarini o'rnatish bo'yicha Qo'shma Shtatlar va Sovet Ittifoqi o'rtasidagi 13 kunlik siyosiy va harbiy qarama-qarshilik edi. Aksincha, Vetnam urushi AQSh, Janubiy Vetnam, Shimoliy Vetnam va boshqa kommunistik ittifoqchilarni o'z ichiga olgan qariyb yigirma yil davom etgan uzoq davom etgan mojaro edi. Urush AQShning Janubi-Sharqiy Osiyoda kommunizm tarqalishini to'xtatishga urinishi natijasi edi.\n\nKuba raketa inqirozi ko'pincha dunyoning yadro urushiga eng yaqin kelgani hisoblanadi, AQSh va Sovet Ittifoqi to'liq miqyosli qarama-qarshilik yoqasida. Oxir-oqibat, tinch qarorga erishildi, Sovet Ittifoqi AQShning Kubaga bostirib kirmaslik haqidagi va'dasi va AQSh raketalarini Turkiyadan olib chiqish bo'yicha maxfiy kelishuv evaziga Kubadan raketalarni olib chiqishga rozi bo'ldi. Aksincha, Vetnam urushi katta vayronagarchiliklarga olib keldi, millionlab odamlar halok bo'ldi, ko'plab jarohatlar oldi va infratuzilma keng miqyosda vayron bo'ldi.\n\nIkki voqea o'rtasidagi yana bir muhim farq ichki yordam edi. Kubadagi raketa inqirozi davrida AQSh hukumatining harakatlari keng jamoatchilik tomonidan qo'llab-quvvatlandi va Prezident Kennedining vaziyatni hal qilish ko'pincha uning eng katta yutuqlaridan biri sifatida tilga olinadi. Biroq, Vetnam urushi Amerika jamoatchiligi orasida juda mashhur emas edi va urushga qarshi kayfiyat yillar davomida barqaror ravishda o'sib bordi. Urush AQSh hukumati va armiyasiga bo'lgan ishonchning sezilarli darajada yo'qolishiga olib keldi va bu hali ham Amerika tarixidagi eng bo'linuvchi mojarolardan biri sifatida eslab kelinmoqda.\n\nXulosa qilib aytadigan bo'lsak, Kuba raketa inqirozi va Vetnam urushi ikkalasi ham Sovuq urushning asosiy voqealari bo'lgan bo'lsa-da, ular davomiyligi, natijalari va ichki qo'llab-quvvatlashlari bilan ajralib turardi. Kuba raketa inqirozi tinch yo'l bilan hal qilingan qisqa va shiddatli qarama-qarshilik edi, Vetnam urushi esa uzoq davom etgan mojaro bo'lib, keng tarqalgan vayronagarchilikka olib keldi va mamlakatda juda mashhur emas edi."
+    },
+    {
+        "instruction": "O'simliklarda hujayrali nafas olish jarayonini tushuntiring.",
+        "output": "O'simliklardagi hujayrali nafas olish glyukozani hujayralar tomonidan asosiy energiya manbai sifatida ishlatiladigan molekula ATP ga aylantirish jarayonidir. Bu jarayon hayvonlardagiga o'xshaydi va u turli fermentativ reaktsiyalarni o'z ichiga oladi.\n\nO'simliklarda hujayrali nafas olish odatda mitoxondriyalarda sodir bo'ladi va jarayonni uch bosqichga bo'lish mumkin: glikoliz, limon kislotasi aylanishi (Krebs tsikli deb ham ataladi) va elektron tashish zanjiri.\n\nGlikoliz jarayonida glyukoza molekulasi ikkita piruvat molekulasiga parchalanadi. Bu jarayon hujayra sitoplazmasida sodir bo'ladi va ikkita ATP molekulasini va ikkita NADH molekulasini, elektronlarni olib yuruvchi molekula hosil qiladi.\n\nKeyingi bosqich, limon kislotasi aylanishi, mitoxondriya ichida sodir bo'ladi. Bu erda glikolizda hosil bo'lgan ikkita piruvat molekulasi elektronlarni tashuvchi yana bir molekula - ATP, NADH va FADH2 hosil qilish uchun yana parchalanadi.\n\nNihoyat, elektron tashish zanjirida oldingi bosqichlarda hosil bo'lgan NADH va FADH2 molekulalari elektronlarni mitoxondriyaning ichki membranasiga o'rnatilgan bir qator oqsil komplekslariga olib boradi. Ushbu elektronlar membrana bo'ylab protonlar oqimini hosil qiladi, bu esa xemiosmoz deb nomlanuvchi jarayon orqali ATP ishlab chiqarishni boshqaradigan gradient yaratadi.\n\nXulosa qilib aytganda, o'simliklardagi hujayrali nafas olish - bu hujayralar tomonidan asosiy energiya manbai sifatida ishlatiladigan ATP ishlab chiqarish uchun glyukoza parchalanishini o'z ichiga olgan jarayon. Bu jarayon mitoxondriyalarda sodir bo'ladi va glikoliz, limon kislotasi aylanishi va elektron tashish zanjiri kabi bir necha bosqichlarni o'z ichiga oladi."
+    },
+    {
+        "instruction": "Berilgan paragrafni qisqaroq, tushunarliroq shaklda qayta yozing.",
+        "output": "Ba'zi odamlar bizni global miqyosda bog'lash qobiliyatiga qaramay, Internetning asosiy funktsiyalarini, umumiy foydalanishni va to'liq imkoniyatlarini tushunmaydilar."
+    },
+    {
+        "instruction": "Berilgan gapdagi so\u2018zlarni joylashtirib, grammatik jihatdan to\u2018g\u2018ri gap tuzing.",
+        "output": "Jigarrang tulki tezda sakrab tushdi."
+    },
+    {
+        "instruction": "Shaxsni jasur deb tavsiflovchi sifatlar ro\u2018yxatini tuzing.",
+        "output": "1. Jasoratli\n2. Qo\u2018rqmas\n3. Qalin\n4. Jasur\n5. Jasoratli\n6. Dadil\n7. tinimsiz\n8. Qo'rqmasdan\n9. Qat'iyatli\n10. Jasur\n11. Qattiq\n12. Qahramonlik\n13. Arslon yurakli\n14. Baquvvat\n15. Dadil."
+    },
+    {
+        "instruction": "Quyidagi gapni faol ovoz yordamida qayta yozing.",
+        "output": "Kapitan xabarni o'qib chiqdi."
+    },
+    {
+        "instruction": "2004 yil raqamlari yig'indisi 6 ga teng. Raqamlar yig'indisi 12 ga teng bo'lgan 2000 yildan keyingi birinchi yil qaysi?",
+        "output": "Raqamlari yig'indisi 12 ga teng bo'lgan 2000 yildan keyingi birinchi yilni topish uchun mumkin bo'lgan eng katta birlik raqamini oling, 9. 2+9=11, shuning uchun o'nlar soni sifatida 1 va yuzlar soni sifatida 0 ni oling. Demak, javob 2019 yil."
+    },
+    {
+        "instruction": "Quvonchni ifodalovchi she\u2019r yarating.",
+        "output": "Bir qahqaha, bir sachrash\nBiz uchun juda qadrli bo'lgan quvonchli daqiqalar\nImon sakrashi, tabassum juda keng\nIchkarida gullaydigan issiqlik hissi\n\nQuyosh yorqin porlaydi, osmon juda moviy\nRangli dunyo, ajoyib manzara\nQattiq quchoq, shunday mehribon so'z\nBaxtli yurak, xotirjam qalb\n\nRitm bilan raqsga tushish, baland ovozda qo'shiq aytish\nO'zingiz bo'lish, olomondan ajralib turish\nBizni porlab turadigan kichik narsalarni quchoqlang\nVa ichingizdagi quvonch to'lib-toshgan bo'lsin\n\nBaxt - bu sayohat, bo'ladigan joy emas\nRuhiy holat, faqat erkin bo'lsin\nQaerga borsangiz ham quvonchni tarqating\nVa dunyo porlaydi, yorqin nur bilan."
+    },
+    {
+        "instruction": "Berilgan matnni ohangiga qarab tahlil qiling.",
+        "output": "Matnning ohangi jiddiy va g'amgin. \"Katta ta'sir ko'rsatdi\", \"keskin o'zgardi\" va \"pandemiya\" kabi atamalardan foydalanish vaziyatning jiddiyligi va og'irligini ko'rsatadi va og'irlik va tashvish hissini bildiradi."
+    },
+    {
+        "instruction": "Uyda elektr energiyasidan foydalanishni kamaytirish rejasini ishlab chiqing.",
+        "output": "1. Joriy elektr energiyasidan foydalanishni tahlil qiling: Uydagi joriy elektr energiyasi, jumladan, o'rtacha oylik hisob-kitob haqida ma'lumot to'plashdan boshlang va elektr energiyasini eng ko'p iste'mol qiladigan jihoz va qurilmalarni aniqlang.\n\n2. Samarasiz qurilmalarni almashtiring: eskirgan va energiya tejamkor qurilmalarni yangilang yoki ENERGY STAR sertifikatiga ega bo\u2018lgan, bir xil funksiyani ta\u2019minlagan holda elektr energiyasini kam iste\u2019mol qiladigan qurilmalar bilan almashtiring.\n\n3. LED yoritgichdan foydalaning: An'anaviy lampochkalarni energiya tejamkor LED lampalar bilan almashtiring, ular 75% gacha kamroq energiya sarflaydi va 25 barobargacha uzoqroq ishlaydi.\n\n4. Foydalanilmayotganda qurilmalarni elektr tarmog'idan uzing: Zaryadlovchilar, televizorlar va kompyuterlar kabi ko'plab elektron qurilmalar o'chirilgan bo'lsa ham quvvat sarflaydi. Elektr sarfini kamaytirish uchun foydalanilmayotganda qurilmalarni elektrdan uzing.\n\n5. Aqlli elektr tasmalaridan foydalaning: Foydalanilmayotgan qurilmalarning quvvatini avtomatik ravishda uzib qo\u2018yadigan va shu bilan kutish rejimida quvvat sarfini kamaytiradigan aqlli elektr tasmalaridan foydalanishni o\u2018ylab ko\u2018ring.\n\n6. Termostatni sozlang: isitish va sovutish uyning umumiy energiya iste'molining yarmini tashkil qilishi mumkin. Termostatni sozlang va uyda hech kim bo'lmaganda yoki tunda isitish yoki sovutishdan foydalanishni kamaytirish uchun dasturlashtiriladigan yoki aqlli termostatlardan foydalaning.\n\n7. Ob-havoni tozalashni o'rnating: Eshiklar va derazalar atrofida havo oqishini oldini olish uchun ob-havoni tozalashni o'rnating, shu bilan isitish va sovutish tizimlariga yukni kamaytiradi.\n\n8. Tabiiy yorug'likdan foydalaning: Iloji bo'lsa, kun davomida jalyuzi va pardalarni ochib, sun'iy yorug'likdan foydalanmaslik orqali tabiiy yorug'likdan foydalaning.\n\n9. Energiyani tejaydigan xulq-atvorni rag\u2018batlantirish: xonadondan chiqayotganda chiroqlarni o\u2018chirish, qisqaroq dush qabul qilish, idish-tovoq va kir yuvish mashinasini faqat to\u2018la bo\u2018lganda ishga tushirish kabi energiya tejovchi odatlar haqida uy a\u2019zolarini o\u2018rgating.\n\n10. Elektr energiyasidan foydalanishni muntazam ravishda kuzatib boring: Elektr energiyasidan foydalanishni muntazam ravishda kuzatib boring va natijalar asosida energiya tejash rejasiga zarur tuzatishlar kiriting."
+    },
+    {
+        "instruction": "Oxiridagi savolga javob berish uchun quyidagi kontekst qismlaridan foydalaning. Agar javobni bilmasangiz, bilmayman deb ayting, javob berishga urinmang.\n\n13-asrda asos solingan Berlin voqealarga boy tarixga ega. 2008 yilda olib borilgan qazishmalar shuni ko'rsatadiki, shahar ilgari taxmin qilinganidan ham qadimgi bo'lishi mumkin: shtat arxeologlari, ehtimol, 1183 yilga to'g'ri keladigan eman daraxtini topdilar.\n\nDeyarli hech bir boshqa megapolis shahar qiyofasini o'zgartiruvchi bunday tez-tez, tubdan o'zgarishlarni boshdan kechirmagan. Berlin o'z ahamiyatining barqaror o'sib borayotganini ko'rgan bo'lsa-da, ko'zni qamashtiruvchi davrlar qorong'u davrlar bilan almashindi. Shunga qaramay, ilgari ikkiga bo'lingan shahar Evropaning markazida jonli metropolga aylanishga muvaffaq bo'ldi.\n\nSavol: Berlindagi eng yaxshi restoran qaysi?",
+        "output": "Kechirasiz, men bu savolga javob bera olmayman, chunki berilgan kontekst Berlindagi eng yaxshi restoran haqida ma'lumot bermaydi."
+    },
+    {
+        "instruction": "O'rmonlarni kesish oqibatlarini ko'rsating.",
+        "output": "O'rmonlarni kesish yoki o'rmonli hududdan daraxtlarni keng ko'lamda olib tashlash atrof-muhitga, iqtisodiyotga va mahalliy jamoalarga sezilarli ta'sir ko'rsatishi mumkin bo'lgan ko'plab oqibatlarga olib keladi. O'rmonlarni kesishning ba'zi oqibatlari:\n\n1. Biologik xilma-xillikning yo'qolishi: O'rmonlarda turli xil o'simlik va hayvon turlari mavjud bo'lib, ularning aksariyati o'z yashashi uchun o'rmonga tayanadi. Daraxtlarning katta maydonlarini olib tashlash ularning yashash muhitini yo'q qilishi mumkin, bu esa biologik xilma-xillikning yo'qolishiga olib keladi.\n\n2. Tuproq eroziyasi: Daraxtlar va ularning ildiz tizimlari tuproqni o'z joyida ushlab turishga yordam beradi va eroziyaning oldini oladi. O'rmonlarni kesish tuproqni ochiq qoldirishi va kuchli yomg'ir yoki kuchli shamol paytida yuvilib ketishi mumkin.\n\n3. Iqlim o'zgarishi: O'rmonlar karbonat angidridni saqlash orqali yer iqlimini tartibga solishda muhim rol o'ynaydi. Daraxtlar olib tashlanganda, saqlangan karbonat angidrid atmosferaga chiqariladi va iqlim o'zgarishiga hissa qo'shadi.\n\n4. Tirikchilik vositalarini yo'qotish: Ko'pgina mahalliy va mahalliy jamoalar o'rmonlardan o'rmonlarga tayanadi, o'tindan yoqilg'i, qurilish materiallari va oziq-ovqat sifatida foydalanadi. O'rmonlarning kesilishi bu jamoalarga halokatli ta'sir ko'rsatishi mumkin, bu esa ularni resurslarsiz yoki o'zlarini boqish vositalarisiz qoldiradi.\n\n5. Iqtisodiy ta'sir: O'rmonlar turli xil qimmatbaho resurslar, jumladan, yog'och, qog'oz va boshqa o'rmon mahsulotlarini beradi. O'rmonlarning kesilishi ushbu resurslarning mavjudligini kamaytirishi mumkin, bu esa iqtisodiyot va ularga tayanadigan tarmoqlarga ta'sir qiladi.\n\n6. Suv toshqini: O'rmonlar suvni so'rib olish va saqlashga yordam beradi, yaqin atrofdagi hududlarda suv toshqini xavfini kamaytiradi. O'rmonlarning kesilishi suv toshqini xavfini oshirishi, uylar, infratuzilma va ekinlarga zarar etkazishi mumkin.\n\nUmuman olganda, o'rmonlarni kesish nafaqat atrof-muhitga, balki iqtisodiyotga va mahalliy jamoalarga ham ta'sir qiluvchi keng ko'lamli salbiy ta'sirga ega bo'lishi mumkin. O'rmonlarni kesish va uning oqibatlarini oldini olish uchun o'rmon resurslarini boshqarishning barqaror usullarini topish muhimdir."
+    },
+    {
+        "instruction": "Quyidagi jumlani ixchamroq qilish uchun tahrir qiling.",
+        "output": "Besh daqiqada yetib kelgan avtobusga yetib olish uchun avtobus bekatiga yugurdi."
+    },
+    {
+        "instruction": "X o'zgaruvchisi \"4x + 2y = 10\" sifatida aniqlanadi. x ning qiymatini toping.",
+        "output": "4x + 2y = 10 tenglama berilgan bo'lsa, y ning qiymatiga qarab, x qiymatining cheksiz ko'p echimlari mavjud. Boshqacha qilib aytganda, x ning qiymati y qiymatiga bog'liq.\n\nBiroq, x ni y shaklida ifodalash hali ham mumkin. Buning uchun biz x uchun yechish uchun tenglamani qayta tashkil qilishimiz mumkin:\n\n4x + 2y = 10\n4x = 10 - 2y\nx = (10 - 2y)\/4\n\nDemak, tenglamaga ko'ra x ning qiymati (10 - 2y)\/4 ga teng. Y ning xususiy qiymatini bilmasdan, x ning aniq qiymatini aniqlash mumkin emas."
+    },
+    {
+        "instruction": "Paragrafdan faktlarni ajratib oling.",
+        "output": "1. Onlayn ta'lim maktablar va talabalar uchun ommalashmoqda.\n2. Onlayn ta'limning afzalliklari arzonroq xarajatlar va kamroq majburiyatlarni o'z ichiga oladi.\n3. Onlayn ta'lim bilan talabalar o'zlariga mos vaqt, joy va tezlikda o'qishlari mumkin."
+    },
+    {
+        "instruction": "Tenglamaning haqiqiy ildizini toping\n sqrt(x) + sqrt(x+2) = 10.\n",
+        "output": "Ikkala tomondan sqrt(x) ni ayirib, keyin kvadratga aylantirsak, biz olamiz\n x+2 = (10-sqrt(x))^2 = x - 20sqrt(x) + 100.\nDemak, 20sqrt(x) = 98, demak sqrt(x) = 98\/20 = 49\/10. Shuning uchun x = (49\/10) ^ 2 = 2401\/100 yoki x = 24.01."
+    },
+    {
+        "instruction": "Berilgan ta'rif nima uchun noto'g'ri ekanligini tushuntiring.",
+        "output": "Mol er ostida yashaydigan hayvon ekanligi haqiqat bo'lsa-da, bu ta'rif to'liq emas va uni noto'g'ri tushunish mumkin, chunki u molning xususiyatlarini yoki biologik tasnifini etarli darajada tasvirlamaydi. Mollar Talpidae deb ataladigan sutemizuvchilar oilasiga mansub bo'lib, ular mayda, chuqurchalar va hasharotlardir. Ular silindrsimon tanalari, qisqa oyoq-qo'llari, kichik ko'zlari va quloqlari bilan mashhur. Ta'rif, shuningdek, hayvonni kimyoda ishlatiladigan o'lchov birligiga ishora qiluvchi kimyoviy atama moldan farq qilmaydi. Shu sabablarga ko'ra, molning berilgan ta'rifi to'liq aniq yoki aniq tavsiflangan emas."
+    },
+    {
+        "instruction": "Berilgan mavzu bo'yicha qisqa paragraf yozing.",
+        "output": "Qayta tiklanadigan energiyadan foydalanishning ahamiyatini ortiqcha baholab bo'lmaydi. Quyosh, shamol va gidroenergetika kabi qayta tiklanadigan energiya manbalari cheklangan bo'lgan qazib olinadigan yoqilg'idan farqli o'laroq, qisqa vaqt ichida tabiiy ravishda to'ldirilishi mumkin. Qayta tiklanadigan energiyadan foydalanish issiqxona gazlari chiqindilarini kamaytiradi va shu bilan iqlim o'zgarishi oqibatlarini yumshatishga yordam beradi. Qolaversa, bu qayta tiklanmaydigan energiya manbalariga bo'lgan ishonchimizni kamaytiradi, energetika mustaqilligi va xavfsizligini rag'batlantiradi. Bundan tashqari, qayta tiklanadigan energiya manbalari ko'pincha uzoq muddatda arzonroq va yashil energiya sohasida ish o'rinlarini yaratishi mumkin. Shunday ekan, qayta tiklanadigan energiya manbalariga o\u2018tish sayyoramiz salomatligi va kelajagimiz barqarorligi uchun hal qiluvchi ahamiyatga ega."
+    },
+    {
+        "instruction": "Sun'iy intellekt tushunchasini oddiy so'zlar bilan tushuntiring.",
+        "output": "Odatda sun'iy intellekt sifatida tanilgan sun'iy intellekt, asosan, inson aql-zakovatini talab qiladigan vazifalarni bajara oladigan kompyuter tizimlarini ishlab chiqishdir. Ushbu vazifalar tilni tarjima qilish, qaror qabul qilish, vizual idrok etish, nutqni aniqlash va hatto murakkab strategiya o'yinlarini o'ynash kabi narsalarni o'z ichiga olishi mumkin.\n\nOddiyroq qilib aytganda, AI bu kompyuterlar va mashinalar odatda faqat odamlar qila oladigan narsalarni, masalan, fikrlash, fikrlash va muammolarni hal qilishda qila oladi. Bunga kompyuterga mustaqil ravishda o\u2018rganishga va ma\u2019lumotlar asosida qarorlar qabul qilishga yordam beradigan algoritmlar yoki qoidalar to\u2018plamini yaratish orqali erishiladi.\n\nUmuman olganda, sun'iy intellekt - bu kompyuterlarga ilgari imkonsiz deb hisoblangan usullarni o'rganish, moslashish va yaxshilash imkonini beruvchi ajoyib va kuchli texnologiya."
+    },
+    {
+        "instruction": "Suv ifloslanishini kamaytirish uchun mumkin bo'lgan echimlar haqida fikr yuriting.",
+        "output": "1. Sanoat chiqindilarini tartibga solish: Hukumatlar suv havzalariga chiqaradigan kimyoviy moddalar va ifloslantiruvchi moddalar miqdorini nazorat qilish va kamaytirish uchun sanoat tarmoqlarida qat'iy qoidalarni qo'llashlari kerak.\n\n2. Ekologik toza qishloq xo\u2018jaligini targ\u2018ib qilish: Fermerlarni suv ifloslanishini kamaytirish uchun ekologik toza qishloq xo\u2018jaligi usullaridan foydalanishni rag\u2018batlantirish kerak. Bu o\u02bbg\u02bbit va pestitsidlardan foydalanishni kamaytirish, zararkunandalarga qarshi kurashda tabiiy usullardan foydalanish kabi chora-tadbirlarni o\u02bbz ichiga olishi mumkin.\n\n3. Aholining xabardorligini oshirish: Suvning ifloslanishi xavfi va uni kamaytirish uchun odamlar ko'rishi mumkin bo'lgan choralar to'g'risida jamoatchilikni xabardor qilish kampaniyasini kuchaytirish kerak. Xavfli maishiy chiqindilarni to'g'ri yo'q qilish, bir marta ishlatiladigan plastmassalardan foydalanishni kamaytirish va suvni tejash kabi oddiy harakatlar suvning ifloslanishini kamaytirishga yordam beradi.\n\n4. Kanalizatsiya va oqava suvlarni tozalash tizimini takomillashtirish: Hukumatlar suv havzalariga chiqmasdan oldin chiqindilardan ifloslantiruvchi moddalarni olib tashlashda samarali va samarali bo'lishini ta'minlash uchun kanalizatsiya va oqava suvlarni tozalash inshootlarini yaxshilashga sarmoya kiritishlari kerak.\n\n5. Yashil energiyani rag'batlantirish: Quyosh va shamol energiyasi kabi yashil energiya manbalaridan foydalanish fotoalbom yoqilg'ilar tomonidan suv havzalariga chiqadigan ifloslantiruvchi moddalar miqdorini kamaytirishi mumkin. Hukumatlar jismoniy shaxslar va sanoat korxonalarini yashil energiya manbalariga o'tish uchun rag'batlantirishlari kerak.\n\n6. Suv sifatini monitoring qilish: Daryolar, ko'llar va okeanlardagi suv sifatini muntazam ravishda monitoring qilish ifloslanish manbalarini aniqlash va uni kamaytirish uchun tegishli choralarni ko'rishga yordam beradi.\n\n7. Tozalash va qayta tiklash: Hukumatlar ifloslangan suv havzalarini tozalash va ularning tabiiy ekotizimlarini tiklashga sarmoya kiritishlari kerak. Bu ifloslantiruvchi moddalarni olib tashlash, eroziyaning oldini olish uchun o'simliklar ekish va mahalliy turlarni qayta tiklash kabi choralarni o'z ichiga olishi mumkin.\n\n8. Atrof-muhitni muhofaza qilish qonunlarini kuchaytirish va qo'llash: kuchli ekologik qonunlar va qoidalar, shuningdek, ularning qat'iy bajarilishi suvning ifloslanishini kamaytirishga yordam beradi. Hukumatlar qonunbuzarlarning jazolanishi va qonunlarning suv resurslarini himoya qilishda samarali bo'lishini ta'minlash uchun choralar ko'rishi kerak."
+    },
+    {
+        "instruction": "Yetkazib berish kompaniyasi uchun ilovani loyihalash.",
+        "output": "Yetkazib berish kompaniyasining ilovasi mijozlarga barcha etkazib berish ehtiyojlarini bir joyda boshqarishning samarali usulini taqdim etadi. Bu ilovaning asosiy xususiyatlari:\n\n1. Foydalanuvchi hisobi: Mijozlar yetkazib berish buyurtmalarini kuzatish va ularning hisob tarixini ko\u2018rish uchun shaxsiy hisob yaratishlari mumkin bo\u2018ladi. Hisob orqali ular shaxsiy ma'lumotlarini, aloqa ma'lumotlarini va manzillarini tahrirlashlari mumkin.\n\n2. Buyurtmani joylashtirish: Mijozlar o'zlarining kerakli narsalarni tanlash yoki xarid ro'yxatining rasmini yuklash orqali o'zlarining yetkazib berish buyurtmalarini ilovaga joylashtirishlari mumkin. Buyurtmalar ma'lum sana va vaqtlarga rejalashtirilishi yoki takroriy ravishda joylashtirilishi mumkin.\n\n3. Haqiqiy vaqtda kuzatuv: Mijozlar o'z buyurtmalarini xaritada real vaqt rejimida kuzatishlari mumkin, bunda taxminiy yetib kelish vaqti yangilanadi.\n\n4. Ilova ichidagi aloqa: mijoz ilova ichidagi chat funksiyasi orqali yetkazib berish bo\u2018yicha ko\u2018rsatmalar, jadvallar yoki maxsus so\u2018rovlar haqida yetkazib berish haydovchisi bilan bog\u2018lana oladi.\n\n5. Yetkazib berishni tasdiqlash: Yetkazib berish tugallangandan so'ng, mijoz bildirishnoma oladi va ular etkazib berishni tasdiqlashlari va xizmatni baholashlari mumkin bo'ladi.\n\n6. To\u2018lov: Mijozlar kredit karta yoki mobil to\u2018lov tizimi kabi afzal ko\u2018rgan to\u2018lov usulini ilovaga qo\u2018shishlari mumkin bo\u2018ladi va tranzaksiyalar muammosiz amalga oshiriladi.\n\n7. Mijozlarni qo\u2018llab-quvvatlash: Mijozlar yordam markaziga kirishlari mumkin, u yerda ular har qanday muammolar haqida xabar berishlari, savollariga javob olishlari yoki bevosita ilovadan mijozlarni qo\u2018llab-quvvatlash xizmatiga qo\u2018ng\u2018iroq qilishlari mumkin.\n\nUmuman olganda, ushbu yetkazib berish ilovasi mijozlar uchun intuitiv va foydalanuvchilar uchun qulay interfeysni taqdim etib, etkazib berish jarayonini muammosiz va stresssiz qiladi."
+    },
+    {
+        "instruction": "Berilgan parchani umumlashtiring.",
+        "output": "Parchada global iqlim o'zgarishining muammo sifatida ahamiyatini ko'rsatadigan tadqiqot muhokama qilinadi. Unda dengiz sathining ko\u2018tarilishi va biologik xilma-xillikning yo\u2018qolishi kabi oqibatlar haqida so\u2018z boradi. Iqlim o'zgarishi inson faoliyati tufayli yuzaga keladi, agar bartaraf etilmasa, uzoq muddatli halokatli ta'sir ko'rsatishi mumkin."
+    },
+    {
+        "instruction": "10 misrali she'r yarating.",
+        "output": "Rangli va yorqin gullar bilan to'ldirilgan o'tloq,\nIssiq quyosh nurida cheksiz ko'k osmon,\nQushlar kuylaydi shunchalik sof va chinakam,\nTabiatning go'zalligi har qanday rang bilan porlaydi.\n\nMayin shabada barglarning shitirlashi,\nAsalarilarning shovqini, xohlaganingizcha band,\nInoyat va qulaylik bilan oqadigan daryo,\nHamma mukammal uyg'unlikda birlashadi.\n\nYaratilish mo'jizasi shunchalik ulkan va ulug'vor,\nTabiat she\u2019riyati kaftingizda."
+    },
+    {
+        "instruction": "30 ta pechene uchun retsept uchun uning tarkibiy qismlari orasida ikki stakan un kerak bo'ladi. Eduardo beshta pechenye pishirmoqchi. Uning sozlangan retseptida unga qancha stakan un kerak bo'ladi?",
+        "output": "Eduardo retsept bo'yicha tayyorlanganidan ikki baravar ko'p pechenye tayyorlamoqchi. Shuning uchun u zarur bo'lgan un miqdorini ikki baravar oshirishi kerak: (2 stakan)\u00d72=4 stakan."
+    },
+    {
+        "instruction": "Raqamlar to'plami berilgan, maksimal qiymatni toping.",
+        "output": "{10, 3, 25, 6, 16} to\u02bbplamidagi maksimal qiymat 25 ga teng."
+    },
+    {
+        "instruction": "Og'irlik kuchi 1 kg massaga qanday kuch ta'sir qiladi?",
+        "output": "Og'irligi 1 kg massaga ta'sir qiladigan tortishish kuchi taxminan 9,8 Nyutonni tashkil qiladi. Bu F = mg formulasi yordamida hisoblanadi, bu erda F - kuch, m - massa va g - tortishish tezlashishi. Yer yuzasida g ning taxminiy qiymati 9,8 m\/s^2 ni tashkil qiladi. Shuning uchun 1 kg massaga tortish kuchi ta'sirida 1 kg * 9,8 m \/ s ^ 2 = 9,8 N ni tashkil qiladi."
+    },
+    {
+        "instruction": "6 va 2 ning hosilasi nima?",
+        "output": "6 va 2 ning ko'paytmasi 12 ga teng."
+    },
+    {
+        "instruction": "Skunk karam qanday o'simlik turi hisoblanadi?",
+        "output": "Skunk karam (Symplocarpus foetidus) ko\u02bbp yillik, past bo\u02bbyli o\u02bbsimlik bo\u02bblib, Shimoliy Amerikaning sharqiy qismidagi botqoq, botqoq va soy bo\u02bbylarida yashaydi. U o'ziga xos, o'tkir hidi uchun nomlangan, aytilishicha, skunkning hidiga o'xshaydi. O'simlik katta, keng barglarga ega va kaputga o'xshash shpatel bilan o'ralgan go'shtli spadiksda kichik gullar hosil qiladi. Skunk karam Araceae oilasining a'zosi bo'lib, u filodendron va tinchlik zambaklar kabi o'simliklarni ham o'z ichiga oladi."
+    },
+    {
+        "instruction": "Madaniy amaliyot uchun bitta misol keltiring.",
+        "output": "Madaniy amaliyotning bir misoli - Yaponiyada Chanoyu deb nomlanuvchi an'anaviy choy marosimi. Marosim matcha, chang yashil choyni tayyorlash va taqdim etishni o'z ichiga oladi. Bu yapon madaniyatiga chuqur singib ketgan va uyg'unlik, hurmat, poklik va osoyishtalik tamoyillariga asoslangan marosimdir. Marosim nafaqat choy ichish, balki estetika va choyni tayyorlash, mezbon va mehmonlar o'rtasidagi o'zaro munosabat, lahzani qadrlash bilan bog'liq."
+    },
+    {
+        "instruction": "Oxiridagi savolga javob berish uchun quyidagi kontekst qismlaridan foydalaning. Agar javobni bilmasangiz, bilmayman deb ayting, javob berishga urinmang.\n\n13-asrda asos solingan Berlin voqealarga boy tarixga ega. 2008 yildagi qazishmalar shuni ko'rsatadiki, shahar ilgari taxmin qilinganidan ham eskiroq bo'lishi mumkin: shtat arxeologlari, ehtimol, 1183 yilga to'g'ri keladigan eman daraxtini topdilar.\n\nDeyarli hech bir boshqa megapolis shahar qiyofasini o'zgartiruvchi bunday tez-tez, tubdan o'zgarishlarni boshdan kechirmagan. Berlin o'z ahamiyatining barqaror o'sib borayotganini ko'rgan bo'lsa-da, ko'zni qamashtiruvchi davrlar qorong'u davrlar bilan almashindi. Shunga qaramay, ilgari ikkiga bo'lingan shahar Evropaning markazida jonli metropolga aylanishga muvaffaq bo'ldi.\n\nSavol: Berlindagi eng yaxshi restoran qaysi?",
+        "output": "Berlin 13-asrda tashkil etilgan."
+    },
+    {
+        "instruction": "Suyuqlikka ikkita misol keltiring.",
+        "output": "Mana suyuqlikning ikkita misoli:\n\n1. Suv: Suv tiniq, rangsiz va hidsiz suyuqlik bo'lib, hayotning barcha shakllari uchun juda muhimdir. U ko'llarda, daryolarda, okeanlarda va hatto er ostida mavjud.\n\n2. Yog ': Neft neftdan olinadigan yopishqoq suyuqlikdir. Odatda transport va ishlab chiqarish kabi turli sohalarda yoqilg'i yoki moylash materiallari sifatida ishlatiladi."
+    },
+    {
+        "instruction": "Yon uzunligi 5 sm bo'lgan kubning umumiy sirtini hisoblang.",
+        "output": "Kubning sirt maydoni uning yuzlaridan birining maydonini hisoblab, oltitaga ko'paytirish orqali topiladi (chunki kubning oltita yuzi bor). Kub yuzining maydoni shunchaki uning yon uzunligi kvadratiga teng.\n\nShunday qilib, ushbu maxsus kub uchun:\n\nSirt maydoni = 6 \u00d7 (Yon uzunligi)\u00b2\n             = 6 \u00d7 (5 sm)\u00b2\n             = 6 \u00d7 25 sm\u00b2\n             = 150 sm\u00b2\n\nUshbu kubning umumiy yuzasi 150 kvadrat santimetrni tashkil qiladi."
+    },
+    {
+        "instruction": "Quyidagi parchaning asosiy g\u2018oyasini toping",
+        "output": "Parchaning asosiy g\u2018oyasi shundaki, iqlim o\u2018zgarishi muhim global muammo bo\u2018lib, ekstremal ob-havo hodisalari va dengiz sathining ko\u2018tarilishi natijasida atrof-muhit va inson hayotiga jiddiy ta\u2019sir ko\u2018rsatmoqda."
+    },
+    {
+        "instruction": "Quyidagi gapni passiv tovushga aylantiring",
+        "output": "Menga kitob sotib olindi."
+    },
+    {
+        "instruction": "Quyidagi gapga eng mos keladigan qo\u2018shimchani aniqlang",
+        "output": "\"Qattiq\" - bu gap uchun eng mos keladigan qo'shimcha. To'liq jumla: \"U qattiq ishlaydi\"."
+    },
+    {
+        "instruction": "Quyidagi gaplarning ohangini tahlil qiling",
+        "output": "\u201cHozir sendan juda xafaman\u201d jumlasining ohangi g\u2018azabli va hafsalasi pir bo\u2018ladi."
+    },
+    {
+        "instruction": "Quyidagi gapni hozirgi davomiy zamonga aylantiring",
+        "output": "U kitob o'qiydi."
+    },
+    {
+        "instruction": "Happy Valley pitomnikida 4 ta tovuq, 2 ta it va 5 ta mushuk bor. (Baxtli vodiydagi ba'zi odamlar tovuqlarni uy hayvonlari sifatida saqlashni yaxshi ko'radilar!) 11 ta hayvonlarni 11 ta katakka, har bir turdagi hayvonlarning hammasi qo'shni kataklarda bo'lishi uchun necha usulda joylashtirish mumkin? (Bir xil turdagi ikkita hayvon ajralib turadigan hisoblanadi.)",
+        "output": "Bu muammoni hal qilish uchun, avvalo, hayvonlarning har bir guruhini alohida ko'rib chiqishimiz kerak. Hayvonlarning uchta guruhi mavjud: tovuqlar, itlar va mushuklar. Bu guruhlarga 3 taga buyurtma berishimiz mumkin! yo'llari.\n\nKeyinchalik, har bir guruhdagi alohida hayvonlarga buyurtma berishimiz kerak. 4 tasi bor! tovuqlarni tartibga solish usullari, 2! itlarni tartibga solish usullari va 5! mushuklarni tartibga solish usullari.\n\nUshbu qiymatlarning barchasini bir-biriga ko'paytirib, biz hayvonlarni tartibga solish usullarining umumiy sonini olamiz: 3! x 4! x 2! x 5! = 34,560."
+    },
+    {
+        "instruction": "Berilgan jumlani passiv ovozga aylantiring.",
+        "output": "Xiyobon mushugini it hurdi."
+    },
+    {
+        "instruction": "Cho\u2018l biomlarining ikki turini ayting.",
+        "output": "Cho'l biomlarining ikki turi issiq va quruq cho'l va sovuq cho'ldir."
+    },
+    {
+        "instruction": "Quyidagi gapni himoya qilish uchun dalil tuzing",
+        "output": "Iqlim o'zgarishi sayyoramizga keng qamrovli va halokatli ta'sir ko'rsatadigan global muammo bo'lib, haroratning ko'tarilishi, ob-havo hodisalarining chastotasi va intensivligining oshishi, yovvoyi tabiat va ekotizimlarga salbiy ta'sir ko'rsatadi. Bu, birinchi navbatda, atmosferaga zararli ifloslantiruvchi moddalar, jumladan karbonat angidrid, metan va azot oksidini chiqaradigan qazib olinadigan yoqilg'ining yonishi natijasida yuzaga keladi. Bu issiqxona gazlari quyoshdan keladigan issiqlikni ushlab turadi va ularning atmosferadagi konsentratsiyasi ortishi bilan Yer harorati ham oshadi.\n\nIqlim o'zgarishiga qarshi kurashish uchun biz qazib olinadigan yoqilg'idan voz kechib, muqobil energiya manbalariga o'tishimiz muhim. Quyosh, shamol, gidro va geotermal kabi muqobil energiya manbalari elektr energiyasini qazib olinadigan yoqilg'idan ko'ra qayta tiklanadigan manbalardan ishlab chiqaradi va shu bilan issiqxona gazlari emissiyasini ancha past darajada ishlab chiqaradi. Ushbu toza energiya manbalaridan foydalanish orqali uglerod izimizni kamaytirish orqali biz sayyoramizning yanada isishining oldini olishimiz va iqlim o'zgarishining zararli ta'sirini yumshatishimiz mumkin.\n\nBundan tashqari, muqobil energiya manbalari energiyaga bo\u2018lgan ehtiyojimizni barqaror va uzoq muddatli hal etish imkonini beradi. Qazib olinadigan yoqilg'i zahiralari cheksizdir va oxir-oqibat tugaydi, qayta tiklanadigan energiya manbalari esa doimiy va ishonchli quvvat manbai bo'lishi mumkin. Bu nafaqat energiya ta'minotimizni xavfsizroq va mustaqil qiladi, balki qayta tiklanmaydigan manbalarga bo'lgan ishonchimizni kamaytirishga yordam beradi.\n\nXulosa qilib aytganda, muqobil energiya manbalarini qabul qilish iqlim inqirozini hal qilishda muhim ahamiyatga ega. Toza energiya manbalariga o\u2018tish orqali biz issiqxona gazlari chiqindilarini kamaytirishimiz, iqlim o\u2018zgarishining salbiy oqibatlariga qarshi kurashishimiz, kelajak avlodlar uchun barqaror va ishonchli energiya ta\u2019minotini ta\u2019minlashimiz mumkin."
+    },
+    {
+        "instruction": "Ilmiy hodisani muhokama qilayotgan ikki kishi o'rtasida dialog yarating",
+        "output": "1-shaxs: Hey, siz gidroenergetika haqida eshitganmisiz?\n\n2-shaxs: Ha, menimcha, o'sha paytda siz oqar suv energiyasidan elektr energiyasi ishlab chiqarish uchun foydalanasiz, to'g'rimi?\n\n1-shaxs: Ha, aniq! Suvning kinetik harakatidagi energiyani elektr energiyasiga aylantirish.\n\n2-shaxs: Oh, xuddi suv to'g'ondan o'tib turbinalarni aylantirganda, bu ham elektr energiyasini ishlab chiqaradi.\n\n1-shaxs: Bu gidroenergetikaning bir usuli, ammo biz gidroenergetika ishlab chiqarishda foydalanishimiz mumkin bo'lgan boshqa usullar ham ko'p. Misol uchun, qirg'oqbo'yi hududlarida ular ko'tarilgan va pasaygan suv oqimi energiyasidan foydalanadigan suv toshqini to'siqlarini qurishlari mumkin.\n\n2-shaxs: Bu ajoyib! Men buni bilmasdim. Guess gidroenergetika ham barqaror va ekologik toza energiya manbai hisoblanadi.\n\n1-shaxs: To'g'ri, bu qayta tiklanadigan energiya manbai bo'lib, u minimal ifloslanishga ega va issiqxona gazlari chiqindilarini kamaytirishga yordam beradi. Ammo, salbiy tomoni shundaki, to'g'onlarni qurish juda qimmat va mahalliy ekotizimlarni buzishi mumkin.\n\n2-shaxs: Ha, menimcha, bu to'g'ri. Foyda, shubhasiz, qiyinchiliklardan ustundir va agar biz elektr energiyasini ishlab chiqarish uchun gidroenergetikadan foydalanishning yangi usullarini ishlab chiqish va o'rganishni davom ettirsak, juda yaxshi bo'lar edi.\n\n1-shaxs: Albatta, bu nafaqat elektr energiyasini ishlab chiqarish, balki suvni samarali boshqarish haqida ham. To'g'ri qo'llanilsa, u global energiya inqiroziga javob bo'lishi mumkin."
+    },
+    {
+        "instruction": "Quyidagi gapni uchinchi shaxs shaklida qayta yozing",
+        "output": "U xavotirda."
+    },
+    {
+        "instruction": "Quyidagi gapni ma'nosini o'zgartirmasdan qisqartirishni maqsad qiling",
+        "output": "U kirishi bilan hammani uyg'otdi."
+    },
+    {
+        "instruction": "Quyidagi gapdagi qo\u2018shma gaplarni aniqlang",
+        "output": "Berilgan gapdagi bog\u2018lovchi \u201cva\u201d. Bog\u2018lovchilar ikki yoki undan ortiq so\u2018z, ibora yoki gaplarni bir-biriga bog\u2018laydigan so\u2018zlar bo\u2018lib, \u201cva\u201d ikki yoki undan ortiq grammatik turga mansub ikki yoki undan ortiq so\u2018z birikmalarini, gaplarni yoki so\u2018zlarni birlashtirish uchun ishlatiladigan eng keng tarqalgan bog\u2018lovchilardan biridir."
+    },
+    {
+        "instruction": "Quyidagi ismli shaxs uchun tavsif yarating",
+        "output": "Jon uzun bo'yli, qora sochli, mehribon tabassum va ko'zlari chaqnab turgan odam. U yumshoq, g'amxo'r tabiatga ega va u doimo boshqalarni tushunishga intiladi. U yangi joylar, tajriba va madaniyatlarni o'rganish va o'rganishga ishtiyoqi bor."
+    },
+    {
+        "instruction": "Aniqlik va oqimni yaxshilash uchun quyidagi jumlani tahrirlang.",
+        "output": "Restorandagi taomlar ajoyib bo'lsa-da, narxlar biroz qimmat."
+    },
+    {
+        "instruction": "Butun son sifatida yozilsa, 7^35 ning birlik raqami qaysi?",
+        "output": "Har qanday musbat butun n soniga ko\u2018tarilgan 7 ning birlik raqamini topish uchun biz 7^n ning birlik raqamlari siklini ko\u2018rib chiqishimiz kerak, bu 7, 9, 3, 1. Bu sikl 7 ning har 4 ta darajasida takrorlanadi. 7^n ning birlik raqamini aniqlash uchun n ni 4 ga bo\u2018lganda R qoldiqni topish kerak. Masalan, n = 35 uchun bizda 35 ni 4 ga bo'lish 8 ga, qolgan 3 ga teng bo'ladi. Shunday qilib, 7^35 birlik raqami tsikldagi uchinchi raqam bo'lib, 3 ga teng."
+    },
+    {
+        "instruction": "Quyidagi ob'ektni ishlatadigan metaforaga misol keltiring",
+        "output": "\u2013 Uning ko\u2018zlari yorqin yulduzlarga o\u2018xshardi, hayajon va hayrat bilan miltillardi."
+    },
+    {
+        "instruction": "Oziq-ovqat yetkazib berish xizmati uchun biznes g'oyalar ro'yxatini yarating.",
+        "output": "1. Organik ovqat yetkazib berish: mahalliy va barqaror manbalardan, sog'lom, organik ovqatlarni mijozlar eshigigacha yetkazib berish.\n\n2. Dietga xos yetkazib berish: glyutensiz, keto yoki vegetarian dietalar kabi maxsus parhez ehtiyojlarini qondirish va har bir taom bilan oziqlanish ma'lumotlarini taqdim etish bo'yicha ixtisoslashgan.\n\n3. Madaniy oshxona yetkazib berish: Turli madaniyatlar va oshxonalardan an'anaviy yoki termoyadroviy taomlarning aylanuvchi menyusini taqdim etish, mijozlarga yangi lazzatlar va jahon taomlarini o'rganishga yordam berish.\n\n4. Ovqatlar to'plamini yetkazib berish: Ostonaga yetkazib beriladigan ovqat to'plamlariga haftalik obuna bo'lishni taklif qilish, oldindan qismlarga bo'lingan ingredientlar va ovqatni o'zingiz tayyorlashingiz oson retseptlar.\n\n5. Fermadan dasturxongacha yetkazib berish: Yangi, mavsumiy va mahalliy yetishtirilgan mahsulotlar va mahsulotlarni bevosita mijozlar eshigigacha yetkazib berish orqali mahalliy fermerlarni iste'molchilar bilan bog'lash.\n\n6. Oilaviy taom yetkazib berish: Uyda pishirilgan qulay taomlarning kattaroq, oilaviy o'lchamdagi qismlarini eshikgacha yetkazib berish, band oilalarga sifatli, uyda pishirilgan taomdan bahramand bo'lishlarini osonlashtiradi.\n\n7. Sog'likka yo'naltirilgan yetkazib berish: Og'irlikni yo'qotish, mushaklarni ko'paytirish yoki umumiy farovonlikni yaxshilash kabi mijozlar maqsadlariga moslashtirilgan mazali, sog'lom taomlarni yaratish uchun toza, butun oziq-ovqat ingredientlaridan foydalanish.\n\n8. Gurme taomlarini yetkazib berish: mijozlarning eshigigacha yuqori darajadagi, restoran sifatiga ega taomlarni yetkazib berish, o\u2018z uylari qulayligida yaxshi ovqatlanish tajribasini taklif qilish.\n\n9. Muzlatilgan oziq-ovqat yetkazib berish: Uyda isitish va zavqlanish oson bo'lgan yuqori sifatli, oshpaz tomonidan tayyorlangan muzlatilgan ovqatlarni yetkazib berish orqali band bo'lgan shaxslar yoki oilalar uchun qulay echimni ta'minlash.\n\n10. Nonushta yetkazib berish: har kuni ertalab to'g'ridan-to'g'ri mijozlar eshigiga yangi, sog'lom va mazali nonushta variantlarini yetkazib berish orqali dam olishni to'g'ri boshlash."
+    },
+    {
+        "instruction": "Tasavvur qiling-a, siz sizdan sotib olgan mahsulotdan qoniqmagan mijoz bilan gaplashyapsiz. Vaziyatni tarqatadigan javob tuzing.",
+        "output": "Hurmatli mijoz,\n\nAvvalo, mahsulotimiz bilan bog'liq har qanday noqulaylik yoki umidsizlik uchun chin dildan uzr so'rayman. Mijozlarimiz o'zlarining xaridlaridan to'liq qoniqishlari biz uchun muhim va biz sizniki kabi tashvishlarga juda jiddiy qaraymiz.\n\nSizdan mahsulot bilan bog'liq muammolar haqida batafsil ma'lumot berishingizni so'raymanmi? Shunday qilib, biz sizning tashvishlaringizni hal qilish uchun eng yaxshi echimni topish uchun birgalikda harakat qilishimiz mumkin.\n\nIshonchim komilki, men sizga yordam berish uchun shu yerdaman va siz uchun hamma narsani to'g'ri qilish uchun qo'limdan kelganini qilaman. Biz sizning biznesingizni qadrlaymiz va ishlarni tuzatish imkoniyatini qadrlaymiz.\n\nBu masalani e'tiborimizga havola qilganingiz uchun tashakkur.\n\nHurmat bilan,\nAI yordamchisi"
+    },
+    {
+        "instruction": "Texnik bo'lmagan auditoriyaga qabariqni tartiblash algoritmi tushunchasini tushuntiring.",
+        "output": "Pufakcha tartiblash oddiy tartiblash algoritmi bo\u02bblib, u ro\u02bbyxatdagi qo\u02bbshni raqamlar juftlarini solishtirish va agar ular noto\u02bbg\u02bbri tartibda bo\u02bblsa, ularni almashtirish orqali ishlaydi.\n\nTasavvur qiling, sizda tartibsiz raqamlar ro'yxati bor. Buni bir hovuch turli o'lchamdagi to'plarni aralashtirish kabi o'ylab ko'ring. Sizning maqsadingiz - to'plarning hajmini qo'lingizning bir chetidan ikkinchisiga oshirish. Buning uchun siz ikkita to'pni bir-biri bilan solishtirasiz. Agar o'ngdagi to'p chap tomondagi to'pdan kichikroq bo'lsa, siz ularni almashtirasiz. Keyin, siz bitta to'pni o'ngga siljiting va ikkalasini (ikkinchi to'p va uchinchi to'p) solishtirasiz. Agar o'ngdagi to'p (uchinchi to'p) chap tomondagi to'pdan (ikkinchi to'p) kichikroq bo'lsa, siz ularni almashtirasiz. Siz buni to'plar ro'yxatini oxirigacha bajarishda davom etasiz. Oxirgi to'pga kelganingizdan so'ng, eng katta to'p bu erda joylashgan bo'lishi kerak.\n\nEndi siz boshlagan joyga qaytib, butun jarayonni yana bajaring. Gap shundaki, siz eng katta to'p uchun joyni topib bo'lgach, uni oldingi to'p bilan taqqoslashingiz shart emas. Bu shuni anglatadiki, almashtirishning ikkinchi bosqichida oxirigacha borish shart emas. Bitta to'pni oxirigacha to'xtatishingiz mumkin. Endi ikkinchi eng katta to'p o'zining munosib joyida.\n\nBu jarayon takrorlanadi va siz ro'yxatni qayta-qayta ko'rib chiqasiz, har safar bitta kamroq to'pni solishtirasiz, toki siz boshqa almashishingiz shart emas. Shu nuqtada, sizning barcha to'plaringiz bir uchidan ikkinchisiga o'lchamlari bo'yicha to'liq tartibga solinadi. Pufakchani saralash shunday ishlaydi!"
+    },
+    {
+        "instruction": "Quyidagi kiritishni hisobga olgan holda, fe'lni o'timli yoki o'timsiz deb tasniflang.",
+        "output": "Yaxshilash - o'timsiz fe'l."
+    },
+    {
+        "instruction": "Quyidagi hodisani protokol buzilishi sifatida tasniflang. Chiqish 1 buzilish uchun, 0 esa buzilish uchun.",
+        "output": "1"
+    },
+    {
+        "instruction": "Yangi mobil ilovani targ'ib qilish uchun marketing strategiyalari ro'yxatini yarating.",
+        "output": "Yangi mobil ilovani targ'ib qilish uchun bir nechta marketing strategiyalari:\n\n1. Ijtimoiy media reklama kampaniyalari: Katta auditoriyani qamrab olish va ilovani targ'ib qilish uchun Facebook, Instagram va Twitter kabi yirik ijtimoiy media platformalaridan foydalaning.\n\n2. Ilovalar do\u02bbkonini optimallashtirish: Ilovalar do\u02bbkonidagi qidiruv natijalarida yuqori o\u02bbrinni egallash uchun ilova nomi, tavsifi va kalit so\u02bbzlarini optimallashtiring.\n\n3. Influencer marketing: So'zni tarqatish va ilovaning ko'rinishini oshirish uchun ijtimoiy media ta'sir o'tkazuvchilar va bloggerlar bilan hamkorlik qiling.\n\n4. Kontent marketingi: Potentsial mijozlarni jalb qilish va jalb qilish uchun foydali va ma'lumot beruvchi blog postlari, videolari va infografikasini ishlab chiqing.\n\n5. Elektron pochta marketingi: Ilovani ma'lum bir auditoriyaga targ'ib qilish uchun maqsadli elektron pochta kampaniyalarini yarating.\n\n6. Yo'naltiruvchi marketing: Joriy foydalanuvchilarni mukofot yoki rag'batlantirish evaziga o'z do'stlari va oila a'zolarini ilovaga yo'naltirishga undash.\n\n7. Ilova ichidagi reklama: Katta va tegishli auditoriyani qamrab olish uchun yangi ilovani boshqa mashhur ilovalar ichida reklama qiling.\n\n8. Press-relizlar: Ilovani yoritish va e'tiborni qozonish uchun tegishli ommaviy axborot vositalariga press-relizlarni ishlab chiqish va tarqatish.\n\n9. Qidiruv mexanizmi marketingi: Muayyan kalit so'zlarni maqsad qilib qo'yish va ilovaning ochilish sahifasiga trafikni jalb qilish uchun pulli qidiruv reklamasidan foydalaning.\n\n10. Voqealar marketingi: Potentsial mijozlar bilan muloqot qilish va ilovani targ'ib qilish uchun tadbirlar, konferentsiyalar yoki vebinarlarga mezbonlik qiling yoki ularda qatnashing."
+    },
+    {
+        "instruction": "Quyidagi kiritishni hisobga olgan holda, ijodiy hikoya tuzing.",
+        "output": "Bir paytlar olis, olis yurtda sehrli kamon va o\u2018q bor ekan. Aytishlaricha, bu o'rmonning dono elflari tomonidan yaratilgan bo'lib, ularning qadimgi sehrlari va bilimlari bilan sug'orilgan. Yoy sehrlangan daraxtlardan eng mustahkam yog'ochdan yasalgan va uning ipi eng yaxshi o'rgimchak ipakdan yigirilgan. O'q esa tog'lar qa'rida, o'z tajribalaridan foydalanib, yengillik va aniqlikning mukammal muvozanatini yaratgan mittilar tomonidan soxtalashtirilgan.\n\nAfsonaga ko'ra, kim sehrli kamon va o'qni qo'llagan bo'lsa, har qanday dushmanni mag'lub etish va har qanday to'siqni yengish huquqiga ega bo'ladi. Ammo, barcha buyuk kuchlar singari, u ham og'ir mas'uliyat bilan keldi. Buni noto'g'ri ishlatganlar dahshatli oqibatlarga olib kelishi mumkin edi, chunki sehrli kamon va o'qni engillashtirmaslik kerak edi.\n\nBir kuni yosh sarguzashtchi tog'larning chuqurligidagi yashirin g'orda yashiringan sehrli kamon va o'qga qoqilib qoldi. U rivoyatlarni bilar edi va uning kuchlari haqida eshitgan va sayohatga o'zi bilan kamon va o'qni olishga qaror qildi.\n\nU yer bo'ylab sayohat qilganda, u ko'plab qiyinchiliklar va xavf-xatarlarga duch keldi, lekin u doimo sehrli kamon va o'qni yaqin tutdi. Qachonki muhtoj bo\u2018lsa, kamonni tortib, o\u2018qni nishonga olar, ichidagi sehr esa uni maqsad sari yetaklab borardi.\n\nShunday qilib, yosh sarguzashtchi sehrli kamon va o'q yordamida imkonsiz narsalarni amalga oshirib, ko'plab ajoyib sarguzashtlarni boshdan kechirdi. Uning kuchidan oqilona foydalandi va yurtning eng buyuk qahramonlaridan biri sifatida tanildi.\n\nOxir-oqibat, sehrli kamon va o'q avloddan-avlodga o'tib, o'z kuchini katta manfaatlar uchun ishlatish uchun etarlicha jasur bo'lganlarga yordam berdi. Shunday qilib, sehrli kamon va o'q haqidagi afsona, mo''jiza va imkoniyat ertaki yashadi."
+    },
+    {
+        "instruction": "Chiziqli regressiya modeli tushunchasini sodda til yordamida tushuntiring.",
+        "output": "Chiziqli regressiya - mustaqil o'zgaruvchi (X) va bog'liq o'zgaruvchi (Y) o'rtasidagi munosabatni topish usuli. Tasavvur qiling-a, siz pitsa tayyorlash uchun qancha vaqt ketishini uning hajmiga qarab taxmin qilmoqchisiz. Pitsaning o'lchami X va uni tayyorlash uchun zarur bo'lgan vaqt Y bo'ladi.\n\nChiziqli regressiyada biz X va Y o'rtasidagi munosabatni ifodalovchi eng mos chiziqni topishga harakat qilamiz. Bu shuni anglatadiki, biz barcha ma'lumotlar nuqtalariga imkon qadar yaqinroq bo'lgan chiziqni topishga harakat qilamiz.\n\nShunday qilib, bizning pizza misolimizda biz turli o'lchamdagi pizza va ularni tayyorlash uchun zarur bo'lgan vaqt haqida ma'lumot to'playmiz. Va keyin biz chiziqli regressiyadan foydalanib, pizza hajmi uni tayyorlash uchun zarur bo'lgan vaqtga qanday ta'sir qilishini ko'rsatadigan eng yaxshi chiziqni topamiz. Ushbu chiziqqa ega bo'lganimizdan so'ng, biz har qanday hajmdagi pitsa tayyorlash uchun qancha vaqt ketishini taxmin qilish uchun foydalanishimiz mumkin.\n\nChiziqli regressiya odatda bashorat qilish va prognoz qilish uchun ishlatiladi va u turli o'zgaruvchilar o'rtasidagi munosabatlarni tushunish uchun kuchli vositadir."
+    },
+    {
+        "instruction": "Oxiridagi savolga javob berish uchun quyidagi kontekst qismlaridan foydalaning. Agar javobni bilmasangiz, bilmayman deb ayting, javob berishga urinmang.\n\n13-asrda asos solingan Berlin voqealarga boy tarixga ega. 2008 yilda olib borilgan qazishmalar shuni ko'rsatadiki, shahar ilgari taxmin qilinganidan ham qadimgi bo'lishi mumkin: shtat arxeologlari, ehtimol, 1183 yilga to'g'ri keladigan eman daraxtini topdilar.\n\nDeyarli hech bir boshqa megapolis shahar qiyofasini o'zgartiruvchi bunday tez-tez, tubdan o'zgarishlarni boshdan kechirmagan. Berlin o'z ahamiyatining barqaror o'sib borayotganini ko'rgan bo'lsa-da, ko'zni qamashtiruvchi davrlar qorong'u davrlar bilan almashindi. Shunga qaramay, ilgari ikkiga bo'lingan shahar Evropaning markazida jonli metropolga aylanishga muvaffaq bo'ldi.\n\nSavol: 20-asr Berlinda qanday voqealar yuz berdi?",
+        "output": "Taqdim etilgan kontekst 20-asr Berlinda sodir bo'lgan voqealar haqida aniq ma'lumot bermaydi. Biroq, Berlin voqealarga boy tarixga ega bo'lganligi sababli, shahar o'z tarixi davomida tez-tez va tubdan o'zgarishlarga uchragani ma'lum, shu jumladan 20-asrda ham yorqin, ham qorong'u davrlar bo'lgan."
+    },
+    {
+        "instruction": "Oziq-ovqat chiqindilarini kamaytirish usullari ro'yxatini tuzing.",
+        "output": "1. Ovqatlanishni rejalashtiring - Bir hafta davomida ovqatlanishni rejalashtiring va shunga mos ravishda xarid qiling. Bu ortiqcha xarid qilishning oldini oladi va keraksiz oziq-ovqat chiqindilari ehtimolini kamaytiradi.\n\n2. Qoldiqlardan oqilona foydalaning - Qoldiqlaringizdan qanday foydalanishda ijodiy bo'ling va ularni yangi ovqatlarga qo'shishga harakat qiling yoki ularni yangi idishlarga o'zgartiring.\n\n3. Oziq-ovqatlarni to'g'ri saqlang - Yaroqlilik muddatini uzaytirish uchun ovqatingiz muzlatgich yoki muzlatgichda to'g'ri saqlanganligiga ishonch hosil qiling.\n\n4. Yaroqlilik muddatini tushuning - \"Eng yaxshi oldin\" va \"foydalanish muddati\" sanalari chalkash bo'lishi mumkin. Oziq-ovqatlarni keraksiz tashlab yubormaslik uchun farqni o'rganishga vaqt ajrating.\n\n5. Ortiqcha oziq-ovqatni ehson qiling - Qolgan oziq-ovqatlarni tashlab yuborish o'rniga, uni mahalliy oziq-ovqat banki yoki boshpanaga berishni o'ylab ko'ring.\n\n6. Kompost chiqindilari - oziq-ovqat qoldiqlarini tashlash o'rniga, ularni kompost qiling. Bu tuproqni boyitish bilan birga chiqindilarni kamaytirishga yordam beradi.\n\n7. Oziq-ovqat chiqindilarini kuzatib boring - sotib olish va pishirish odatlaringizni mos ravishda o'zgartirishingiz uchun tashlab ketayotgan ovqatlaringizni kuzatib boring.\n\n8. Kichikroq qismlarda xizmat qiling - ortiqcha ovqatlanishning oldini olish va ovqatlanish vaqtida hosil bo'ladigan oziq-ovqat chiqindilarini kamaytirish uchun ovqatni kichikroq qismlarga bo'ling.\n\n9. Qo'shimcha ingredientlarni muzlatib qo'ying - Agar sizda qo'shimcha ingredientlar mavjud bo'lsa, ular yomonlashguncha ishlatmasliklarini bilsangiz, ularni kelajakda ishlatish uchun muzlatib qo'ying.\n\n10. Saqlashni o'rganing - Agar sizda ortiqcha meva va sabzavotlar bo'lsa, ularni tuzlash yoki konservalash orqali qanday saqlashni o'rganing. Bu ularning saqlash muddatini uzaytirishga va oziq-ovqat chiqindilari miqdorini kamaytirishga yordam beradi."
+    },
+    {
+        "instruction": "O'z-o'zidan boshqariladigan avtomobil uchun g'oyani taklif qiling.",
+        "output": "O'z-o'zidan boshqariladigan avtomobillar tobora ommalashib bormoqda, chunki texnologiya rivojlanishi va xavfsizroq va samaraliroq transportga bo'lgan talab ortib bormoqda. O\u2018z-o\u2018zidan boshqariladigan avtomobil uchun g\u2018oyalardan biri uni ilg\u2018or sensorlar va kameralar bilan jihozlash bo\u2018lib, unga yo\u2018llarda xavfsiz va avtonom harakatlanish imkonini beradi. Avtomobil yo\u2018l sharoitlari, harakatlanish tartibi va potentsial xavflarni tahlil qilish va real vaqtda ushbu omillarga qanday javob berish bo\u2018yicha qaror qabul qilish uchun mashinani o\u2018rganish algoritmlaridan foydalanadi.\n\nMashina yo'lda boshqa o'zini boshqaradigan mashinalar bilan bog'lanib, ma'lumot almashishi va tirbandlikni kamaytirish va xavfsizlikni yaxshilash uchun ularning harakatlarini muvofiqlashtirishi mumkin edi. Mashina real vaqtda tirbandlik haqidagi ma\u2019lumotlar asosida tezligi va marshrutini sozlashi, tirbandlik va baxtsiz hodisalarning oldini olish uchun avtomatik ravishda aylanma yo\u2018llarni bosib o\u2018tishi mumkin edi.\n\nBundan tashqari, avtomashina avtomatik favqulodda tormozlash, qatorni tark etish haqida ogohlantirish va to'qnashuvning oldini olish tizimlari kabi xavfsizlik funktsiyalari bilan jihozlangan bo'lib, avtomobil va uning yo'lovchilari doimo yo'lda xavfsiz bo'lishini ta'minlaydi.\n\nO\u02bbzi boshqariladigan avtomobil ham foydalanuvchilarga qulay interfeysga ega bo\u02bblib, yo\u02bblovchilarga o\u02bbz manzili va afzal marshrutini kiritish imkonini beradi, shu bilan birga, taxminiy yetib kelish vaqti va yuzaga kelishi mumkin bo\u02bblgan kechikishlar haqida ma\u02bclumot beradi. Bu avtomobilda sayohat qilishni yanada qulayroq va stresssiz qiladi va mashina haydash bilan shug'ullanayotganda odamlarga boshqa vazifalarga e'tibor qaratish imkonini beradi."
+    },
+    {
+        "instruction": "Stressni kamaytirishga yordam beradigan maslahatlar ro'yxatini tuzing.",
+        "output": "Bu erda stressni kamaytirishga yordam beradigan maslahatlar ro'yxati:\n\n1. Gev\u015feme texnikasini mashq qiling: ongni tinchlantirish va tanadagi kuchlanishni kamaytirish uchun chuqur nafas olish, meditatsiya yoki yoga bilan shug'ullaning.\n\n2. Faol bo'ling: muntazam mashqlar stress gormonlarini chiqarishga yordam beradi va umumiy farovonlikni yaxshilaydi.\n\n3. Etarlicha uxlang: Yaxshi tungi uyqu sizni tetik his qilishingizga yordam beradi va stressni engish uchun yaxshi jihozlanadi.\n\n4. Tartibda bo'ling: Uyushtirilgan bo'lish o'zingizni ko'proq nazorat ostida his qilishingizga yordam beradi.\n\n5. Ustuvorliklarni belgilang: nima muhimligini aniqlang va birinchi navbatda shu narsalarga e'tiboringizni qarating. Bir vaqtning o'zida hamma narsani qilishga urinish stressga olib kelishi mumkin.\n\n6. Ijobiy bo'ling: hayotingizdagi yaxshi narsalarga e'tiboringizni qaratishga harakat qiling, yutuqlaringiz va kuchli tomonlaringizni eslatib turing.\n\n7. Stress omillariga ta'sir qilishni cheklang: iloji bo'lsa, hayotingizdagi stress omillarini kamaytiring, masalan, salbiy odamlar bilan o'tkaziladigan vaqtni cheklash yoki stressni keltirib chiqaradigan muayyan vaziyatlardan qochish.\n\n8. Tanaffus qiling: dam olish va quvvat olish uchun ishdan yoki boshqa stressli ishlardan muntazam ravishda tanaffus qiling.\n\n9. Aloqada bo'ling: oila va do'stlarning ijtimoiy yordami sizga qiyin paytlarda yordam beradi.\n\n10. Yordam so'rang: Agar stress haddan tashqari kuchayib borayotgan bo'lsa, maslahatchi yoki terapevt kabi professionallardan yordam so'rang."
+    },
+    {
+        "instruction": "Yangi mahsulotingizni reklama qilish uchun Twitter postini yarating.",
+        "output": "Alisha's All Natural Jam bilan nafsingizni qondiring! \ud83c\udf53\ud83c\udf6f Bizning eng yangi mahsulotimiz mazali ta'mni kafolatlash uchun eng yaxshi ingredientlardan tayyorlangan. Har bir luqmada tabiiy shirinlikning mukammalligini his eting. #AlishasJam #TabiiyYaxshilik #Sog'lomOvqatlanish."
+    },
+    {
+        "instruction": "Uzunligi 10 sm va kengligi 5 sm bo'lgan to'rtburchakning maydonini hisoblang.",
+        "output": "To'rtburchakning maydonini uning uzunligini kengligiga ko'paytirish orqali hisoblash mumkin. Bunday holda, to'rtburchakning uzunligi 10 sm, kengligi esa 5 sm sifatida beriladi. Shunday qilib, berilgan o'lchamlarga ega to'rtburchakning maydoni `10 sm x 5 sm = 50 sm\u00b2` ga teng."
+    },
+    {
+        "instruction": "G'arbiy yarim shardagi mamlakat nomlari ro'yxatini tuzing.",
+        "output": "G'arbiy yarim sharda joylashgan mamlakatlar ro'yxati:\n\n1. Antigua va Barbuda\n2. Argentina\n3. Bagama orollari\n4. Barbados\n5. Beliz\n6. Boliviya\n7. Braziliya\n8. Kanada\n9. Chili\n10. Kolumbiya\n11. Kosta-Rika\n12. Kuba\n13. Dominika\n14. Dominikan Respublikasi\n15. Ekvador\n16. Salvador\n17. Grenada\n18. Gvatemala\n19. Gayana\n20. Gaiti\n21. Gonduras\n22. Yamayka\n23. Meksika\n24. Nikaragua\n25. Panama\n26. Paragvay\n27. Peru\n28. Sent-Kitts va Nevis\n29. Sent-Lyusiya\n30. Sent-Vinsent va Grenadin orollari\n31. Surinam\n32. Trinidad va Tobago\n33. Amerika Qo'shma Shtatlari\n34. Urugvay\n35. Venesuela."
+    },
+    {
+        "instruction": "Quyidagi iborani frantsuz tiliga tarjima qiling.",
+        "output": "Menga manques."
+    },
+    {
+        "instruction": "Quyidagi gapni to\u2018g\u2018ri yoki noto\u2018g\u2018ri deb tasniflang.",
+        "output": "To'g'ri"
+    },
+    {
+        "instruction": "Aniqlik va oqimni ta'minlash uchun jumlani qayta yozing.",
+        "output": "Uyni ijaraga olishni tanlash oqilona qaror edi."
+    },
+    {
+        "instruction": "Ispaniya poytaxtini toping.",
+        "output": "Ispaniyaning poytaxti - Madrid."
+    },
+    {
+        "instruction": "Xodimlarning ish haqini qayd etish uchun ma'lumotlar bazasi sxemasini loyihalash.",
+        "output": "Xodimlarning ish haqini qayd etish uchun mumkin bo'lgan ma'lumotlar bazasi sxemasi:\n\nJadval: xodimlar\n- id (asosiy kalit)\n- ism\n- elektron pochta\n- departament_identifikatori (chet el kalitlari uchun departamentlar.id)\n\nJadval: bo'limlar\n- id (asosiy kalit)\n- ism\n\nJadval: ish haqi\n- id (asosiy kalit)\n- xodimning identifikatori (xorijiy kalitga ishora qiluvchi xodimlar.id)\n- ish haqi\n- boshlanish sanasi\n- tugash_sana (ixtiyoriy)\n\n\"Xodimlar\" jadvalida har bir xodim haqidagi ma'lumotlar, jumladan, ularning ismi, elektron pochta manzili va bo'limi saqlanadi. \"Bo'limlar\" jadvalida har bir bo'lim to'g'risidagi ma'lumotlar, shu jumladan uning nomi saqlanadi. \"Ish haqi\" jadvalida har bir xodimning ish haqi to'g'risidagi ma'lumotlar, shu jumladan xodimning shaxsiy guvohnomasi, ish haqi miqdori, ish haqi davrining boshlanish va tugash sanalari saqlanadi.\n\nE'tibor bering, ushbu sxema har bir xodim bir vaqtning o'zida faqat bitta bo'lim bilan bog'langanligini taxmin qiladi. Agar xodim bir nechta bo'limlar bilan bog'lanishi mumkin bo'lsa, siz sxemani mos ravishda o'zgartirishingiz kerak bo'lishi mumkin. Bundan tashqari, o'zingizning ehtiyojlaringizga qarab, ish unvonlari, xodimlarning identifikatorlari yoki menejer ma'lumotlari kabi qo'shimcha ma'lumotlarni saqlash uchun jadvallarga qo'shimcha maydonlarni qo'shishingiz mumkin."
+    },
+    {
+        "instruction": "Oxiridagi savolga javob berish uchun quyidagi kontekst qismlaridan foydalaning. Agar javobni bilmasangiz, bilmayman deb ayting, javob berishga urinmang.\n\nIlgari, bo'yoq ostidagi bosma nashrdan foydalanish sanoat yoki yuqori darajadagi tijorat nashri bilan cheklangan. Bo'yoq ostidagi fotosuratlarni chop etish tibbiy tasvirlash, grafik san'atni tekshirish, xavfsizlik va radioeshittirish bilan bog'liq ilovalarda qo'llanilgan. Bugungi kunda u yuqori tezlikda, talab bo'yicha chop etishni talab qiladigan tadbirlarni suratga olish va fotostendlar yoki kiosklarda juda mashhur.\n\nAlps Electric uy iste'molchilari uchun 500-1000 dollar narx oralig'ida birinchi sifatli bo'yoq-sublimatsiya texnologiyasini kengroq auditoriyaga taqdim etgan holda ishlab chiqardi. (Ammo bu modellar haqiqiy sahifa printerlari emas edi, chunki ular ko\u02bbpchilik inkjet printerlar singari sahifa bo\u02bbylab tarqaladigan tor bosma kallakdan foydalangan.) Hozir bozorda 100 dollardan boshlanadigan bo\u02bbyoq-sublimatsiya printerlari, ayniqsa otkritkalar mavjud. - o'lchamli mobil foto printerlar.\n\nKichkina printerda lahzali fotosuratlarni arzon narxlarda chop etish imkoniyati ba'zi ilovalarda an'anaviy tezkor fotosuratlarni, masalan, karta printeri yordamida ID suratga olish o'rnini bosuvchi sublimatsiya yechimlarini bo'yashga olib keldi.\n\nBir nechta korporatsiyalar ish stoli o'lchamidagi qurilmalarni mustaqil printerlar sifatida va bosma kiosk va fotostend ilovalari uchun sotadi. Ushbu birliklarning ba'zilari umumiy printerlarga asoslangan. Ba'zi ishlab chiqaruvchilar o'zlarining printerlari bilan dasturiy ta'minot ishlab chiqish to'plamlarini taklif qilishadi va bu kompaniyalar tizim integratorlarini potentsial bozor sifatida jalb qilishga umid qilmoqdalar.\n\nIsh stoli o'lchamidagi mustaqil bo'yoq-pastki fotosurat printerlari ham fotosuratchilar tomonidan voqealarni suratga olishda ishlatiladi. Texnologiya fotosuratchilarga o'zlari ishtirok etayotgan tadbir davomida, minimal miqdordagi apparat vositalari bilan darhol laboratoriya sifatli nashrlarni ishlab chiqarish va sotish imkonini beradi.\n\nSavol: Bo'yoq sublimatsiya printeridan qanday maqsadlarda foydalaniladi?",
+        "output": "Bo'yoq sublimatsiya printerlari sanoat yoki yuqori darajadagi tijoriy bosib chiqarish, tibbiy tasvirlash, grafik san'atni tekshirish, xavfsizlik, translyatsiya bilan bog'liq ilovalar, hodisalarni suratga olish va yuqori tezlikda, talab bo'yicha chop etishni talab qiladigan foto stendlar yoki kiosklar uchun ishlatiladi. Ular lahzali fotosuratlarni arzon narxlarda chop etishlari mumkin va karta printeri yordamida ID suratga olish uchun mashhurdir. Ish stoli o'lchamidagi mustaqil bo'yoqli foto printerlar fotograflar tomonidan hodisani suratga olishda ham qo'llaniladi, bu ularga minimal jihozlar bilan qatnashayotgan tadbir davomida darhol laboratoriya sifatli nashrlarni ishlab chiqarish va sotish imkonini beradi."
+    },
+    {
+        "instruction": "API nima ekanligini tushuntiring.",
+        "output": "API - bu Application Programming Interface qisqartmasi. Bu turli xil dasturiy ta'minot dasturlari yoki tizimlari o'rtasida aloqa o'rnatishga imkon beruvchi qoidalar va protokollar to'plami. Asosan, bu turli ilovalar uchun ma'lumotlar va xizmatlarni bir-biri bilan tuzilgan va tashkiliy tarzda almashish usulini taqdim etadi. API dasturiy ta'minotning bir qismi boshqasidan ma'lumot yoki xizmatlarni so'rash usulini belgilaydi, so'rovning formatini va javobni belgilaydi. Bu ishlab chiquvchilarga boshqa tizimlar yoki xizmatlarning funksional imkoniyatlaridan foydalana oladigan dastur va ilovalarni yaratish imkonini beradi, bunda ularning butun kod bazasini yoki ichki ishlashini tushunmaslik kerak. API-dan foydalangan holda, ishlab chiquvchilar o'zlarining dasturlarini yaratishga e'tibor berishlari mumkin, shu bilan birga boyroq foydalanuvchi tajribasini ta'minlash uchun boshqa tizimlarning imkoniyatlaridan foydalanishlari mumkin. Xulosa qilib aytganda, API ikki yoki undan ortiq alohida dasturiy ta'minot tizimlari o'rtasida tarjimon sifatida qaralishi mumkin, bu ularga birgalikda ishlash va uzluksiz va samarali tarzda o'zaro ta'sir qilish imkonini beradi."
+    },
+    {
+        "instruction": "Quyidagi mijozlar segmentiga tavsif bering.",
+        "output": "AQSHdagi 18-25 yoshdagi onlayn xaridorlar elektron tijorat faoliyati bilan tez-tez shug\u02bbullanadigan, texnologiyani yaxshi biladigan yosh kattalar segmentini ifodalaydi. Bu yosh guruhi internet bilan o'sgan va texnologiya bilan qulay bo'lgan raqamli onalik bo'lishi mumkin. Ular mahsulot va xizmatlarni onlayn tadqiq qilish, solishtirish va sotib olish uchun turli raqamli platformalar va qurilmalardan foydalanishi mumkin. Ular onlayn xarid qilish uchun turli motivlarga ega bo'lishi mumkin, jumladan, qulaylik, xilma-xillik va eng yaxshi narxlarni tezda topish va taqqoslash qobiliyati. Shuningdek, ular tez va bepul yetkazib berish, oson qaytarish va moslashtirilgan tavsiyalar uchun katta umidlarga ega bo'lishi mumkin. Bu biznes uchun qimmatli mijozlar segmentidir, chunki ular yuqori darajadagi ishtirok va uzoq muddatli sodiqlik salohiyatiga ega."
+    },
+    {
+        "instruction": "Ushbu matnning asosiy g'oyasi nima?",
+        "output": "Matnning asosiy g'oyasi shundaki, robototexnika sanoati jadal rivojlanmoqda va uning texnologiyasi ko'plab turli sohalarda va ilovalarda qo'llanilmoqda."
+    },
+    {
+        "instruction": "Hozirgi davomiy fe'llar ro'yxatini tuzing.",
+        "output": "1. Ovqatlanish\n2. Ichish\n3. Yugurish\n4. Kulish\n5. Qo'shiq aytish\n6. Raqsga tushish\n7. Uxlash\n8. Ovqat pishirish\n9. O'qish\n10. Yozish\n11. O'ynamoqda\n12. Suzish\n13. Yurish\n14. Gaplashish\n15. Tinglash\n16. Tomosha qilish\n17. O'qish\n18. Ishlash\n19. Mashq qilish\n20. Tabassum."
+    },
+    {
+        "instruction": "Quyidagi maqola uchun sarlavha yarating.",
+        "output": "\"AQShda qayta tiklanadigan energiya kelajagi: keng qamrovli istiqbol\""
+    },
+    {
+        "instruction": "Quyidagi gapdagi har bir so\u2018zni o\u2018z bo\u2018lagiga belgilang.",
+        "output": "Mushukchalar - ot\ntez-tez - qo'shimcha\nscamper - fe'l\natrofida - predlog\nhayajonli - qo'shimcha."
+    },
+    {
+        "instruction": "Oxiridagi savolga javob berish uchun quyidagi kontekst qismlaridan foydalaning. Agar javobni bilmasangiz, bilmayman deb ayting, javob berishga urinmang.\n\nIlgari, bo'yoq ostidagi bosma nashrdan foydalanish sanoat yoki yuqori darajadagi tijorat nashri bilan cheklangan. Bo'yoq ostidagi fotosuratlarni chop etish tibbiy tasvirlash, grafik san'atni tekshirish, xavfsizlik va radioeshittirish bilan bog'liq ilovalarda qo'llanilgan. Bugungi kunda u yuqori tezlikda, talab bo'yicha chop etishni talab qiladigan tadbirlarni suratga olish va fotostendlar yoki kiosklarda juda mashhur.\n\nAlps Electric uy iste'molchilari uchun 500-1000 dollar narx oralig'ida birinchi sifatli bo'yoq-sublimatsiya texnologiyasini kengroq auditoriyaga taqdim etgan holda ishlab chiqardi. (Ammo bu modellar haqiqiy sahifa printerlari emas edi, chunki ular ko\u02bbpchilik inkjet printerlar singari sahifa bo\u02bbylab tarqaladigan tor bosma kallakdan foydalangan.) Hozir bozorda 100 dollardan boshlanadigan bo\u02bbyoq-sublimatsiya printerlari, ayniqsa otkritkalar mavjud. - o'lchamli mobil foto printerlar.\n\nKichkina printerda lahzali fotosuratlarni arzon narxlarda chop etish imkoniyati ba'zi ilovalarda an'anaviy tezkor fotosuratlarni, masalan, karta printeri yordamida ID suratga olish o'rnini bosuvchi sublimatsiya yechimlarini bo'yashga olib keldi.\n\nBir nechta korporatsiyalar ish stoli o'lchamidagi qurilmalarni mustaqil printerlar sifatida va bosma kiosk va fotostend ilovalari uchun sotadi. Ushbu birliklarning ba'zilari umumiy printerlarga asoslangan. Ba'zi ishlab chiqaruvchilar o'zlarining printerlari bilan dasturiy ta'minot ishlab chiqish to'plamlarini taklif qilishadi va bu kompaniyalar tizim integratorlarini potentsial bozor sifatida jalb qilishga umid qilmoqdalar.\n\nIsh stoli o'lchamidagi mustaqil bo'yoq-pastki foto printerlar ham fotograflar tomonidan voqealarni suratga olishda qo'llaniladi. Texnologiya fotosuratchilarga o'zlari ishtirok etayotgan tadbir davomida, minimal miqdordagi apparat vositalari bilan darhol laboratoriya sifatli nashrlarni ishlab chiqarish va sotish imkonini beradi.\n\nSavol: Epson F7100 bo'yoq ostidagi printermi?",
+        "output": "Kechirasiz, lekin menda bu savolga javob berish uchun Epson F7100 haqida yetarlicha kontekstual ma\u02bclumot yo\u02bbq."
+    },
+    {
+        "instruction": "8 ta belgidan iborat parol yarating.",
+        "output": "Mana tasodifiy yaratilgan 8 belgidan iborat parol: rT8$jLpZ.\n\nShuni esda tutingki, xavfsizlik uchun noyob paroldan foydalanish va uni baham ko'rmaslik yoki uni bir nechta hisoblarda qayta ishlatmaslik tavsiya etiladi."
+    },
+    {
+        "instruction": "Robototexnika haqidagi veb-sahifa qanday tarkibdan iborat bo'lishi kerakligini taklif qiling.",
+        "output": "Veb-sahifa robototexnikaga kirishni o'z ichiga olishi kerak, u nima ekanligini va uni turli sohalarda qanday qo'llash mumkinligini qamrab oladi. Shuningdek, u robototexnika tarixiga oid bo'limni, sohadagi asosiy yutuqlarning umumiy ko'rinishini va hozirgi tendentsiyalarni o'z ichiga olishi kerak. Har xil turdagi robotlar va ularning ilovalari haqidagi ma'lumotlar, shuningdek, keyingi tadqiqotlar uchun resurslarga havolalar kiritilishi kerak."
+    },
+    {
+        "instruction": "\"Uyqu\" so'zini o'z ichiga olgan ibora yoki idiomani o'ylab ko'ring.",
+        "output": "\"Uyquni yo'qotmang.\" Bu ibora ko'p tashvishlanmaslik yoki biror narsa haqida haddan tashqari tashvishlanmaslikni anglatadi."
+    },
+    {
+        "instruction": "Keyingi xatboshida nima sodir bo'lishini tasvirlab bering.",
+        "output": "Keyingi paragrafda g'ayrioddiy va misli ko'rilmagan narsa sodir bo'ladi."
+    },
+    {
+        "instruction": "Ijtimoiy tarmoqlarda eng ko'p baham ko'rilgan kontent turi qaysi?",
+        "output": "Ijtimoiy tarmoqlarda eng ko'p baham ko'rilgan kontent turlari platformadan platformaga o'zgarib turadi, ammo quyidagilar odatda eng ommaboplari qatoriga kiradi:\n\n1. Vizual kontent: Tasvirlar va videolar kabi vizual kontent ijtimoiy tarmoqlardagi eng mashhur kontent turlaridan biridir. Odamlar ko'zni qamashtiruvchi, jozibali vizual tasvirlarni baham ko'rishni yaxshi ko'radilar, xoh u kulgili mem, chiroyli surat yoki informatsion infografika bo'ladimi.\n\n2. Foydalanuvchi tomonidan yaratilgan kontent: Foydalanuvchi tomonidan yaratilgan kontent deganda platforma foydalanuvchilari tomonidan yaratilgan sharhlar, fotosuratlar, videolar yoki blog postlari kabi har qanday tarkib tushuniladi. Ushbu turdagi kontent mashhurdir, chunki u odamlar bilan rezonanslashadi va ular unga tegishli.\n\n3. Yangiliklar va dolzarb voqealar: Ijtimoiy media platformalari yangiliklar va axborotning asosiy manbalariga aylangani sababli, odamlar tobora ko'proq yangiliklar maqolalari, videolar va dolzarb voqealarga oid boshqa kontentni almashishmoqda.\n\n4. Ilhomlantiruvchi va motivatsion kontent: Ilhomlantiruvchi iqtiboslar, hikoyalar va xabarlar ijtimoiy tarmoqlarda mashhur bo\u2018lib, ular ijobiy turtki beradi va odamlarga o\u2018zini yaxshi his qilishiga yordam beradi.\n\n5. Ta'lim mazmuni: O'quv qo'llanmalari, qo'llanmalar va tushuntirishlar kabi ta'lim mazmuni ijtimoiy tarmoqlarda ham mashhur. Odamlar yangi narsalarni o'rganishni yaxshi ko'radilar va ijtimoiy media ular uchun axborot mazmuniga kirish va almashish uchun ajoyib joy.\n\nOxir oqibat, kontentning mashhurligi platforma, auditoriya va hatto yil vaqtiga qarab o'zgaradi, ammo bu kontent turlari odatda ijtimoiy tarmoqlarda eng ko'p baham ko'riladi."
+    },
+    {
+        "instruction": "Berilgan gapda ishlatilgan tilni aniqlang.",
+        "output": "\"Il est incroyable\" jumlasida ishlatiladigan til frantsuz tilidir."
+    },
+    {
+        "instruction": "Noto'g'ri so'zni aniqlang va yaxshiroq versiyani taklif qiling.",
+        "output": "Noto'g'ri so'z \"odobli\" va yaxshiroq versiya \"odobli\" bo'ladi."
+    },
+    {
+        "instruction": "Uchinchi shaxs nuqtai nazaridan foydalanib, ushbu jumlani qayta yozing.",
+        "output": "U do'konga bordi."
+    },
+    {
+        "instruction": "Quyidagi so\u2018zlarni to\u2018g\u2018ri tartibda ishlatib, gap tuzing.",
+        "output": "Yong\u2018in yonayotgan uy mahallada xavotirli vaziyat yaratdi."
+    },
+    {
+        "instruction": "Quyidagi gap oxirida qanday tinish belgilari qo'llanilishi kerak?",
+        "output": "O\u2018sha gap oxirida nuqta qo\u2018yilishi kerak: Qushga qaraymiz."
+    },
+    {
+        "instruction": "Gap grammatik jihatdan to'g'rimi?",
+        "output": "Yo'q, gap grammatik jihatdan to'g'ri emas. Bu kontekstda \"u\" olmoshi noto'g'ri, chunki u ayol kishiga, \"o'g'il\" esa erkak kishiga ishora qiladi. Jumlani grammatik jihatdan to'g'ri qilish uchun siz \"o'g'il\" ning jinsiga mos keladigan \"u\" ni \"uning\" ga o'zgartirishingiz mumkin. To'g'ri jumla: \"Bola o'yinchoqlari bilan o'ynadi\"."
+    },
+    {
+        "instruction": "Quyidagi maqolani o'z so'zlaringiz bilan umumlashtiring.",
+        "output": "Maqolada internetning bugungi jamiyatdagi ahamiyati va u qanday qilib aloqani tubdan o'zgartirgani va axborotning butun dunyo bo'ylab tez, arzon tarqalishiga imkon bergani haqida so'z boradi."
+    },
+    {
+        "instruction": "Bu gapni kelasi zamonga o\u2018zgartiring.",
+        "output": "U maktabga piyoda boradi."
+    },
+    {
+        "instruction": "Jon va Maryam o'rtasidagi munosabatlarni tasniflang.",
+        "output": "Jon va Maryam o'rtasidagi munosabatlar aka-uka munosabatlaridir. Ular umumiy ota-onalarga ega bo'lgan oilaviy rishtalarni baham ko'rishadi."
+    },
+    {
+        "instruction": "Quyidagi idiomaning ma'nosi nima?",
+        "output": "\"It's yomg'ir mushuklar va itlar\" idiomasi yomg'ir juda kuchli yoki yomg'ir yog'ayotganini anglatadi, go'yo hayvonlar osmondan tushayotgandek. Bu kuchli yomg'irni tasvirlash uchun ishlatiladigan rangli ibora."
+    },
+    {
+        "instruction": "Ikkinchi jumlani qisqartiring.",
+        "output": "Qish odatda sovuq va qor olib keladi."
+    },
+    {
+        "instruction": "Berilgan so\u2018zlardan foydalanib ibora tuzing",
+        "output": "\"Pandemiya qiyinchilik tug'diradi va zudlik bilan va qat'iy choralar ko'rishni talab qiladi.\""
+    },
+    {
+        "instruction": "Kvadrat tenglamaning yechimini toping.",
+        "output": "Berilgan kvadrat tenglama 3x\u00b2 + 7x - 4 = 0 ga teng.\n\nBu tenglamani kvadrat formula yordamida yechishimiz mumkin: x = (-b \u00b1 sqrt(b\u00b2 - 4ac)) \/ 2a.\n\nBu erda a = 3, b = 7 va c = -4.\n\nUshbu qiymatlarni kvadrat formulaga kiritib, bizda:\nx = [ -7 \u00b1 sqrt(7\u00b2 - 4 * 3 * -4)] \/ (2 * 3)\n  = [ -7 \u00b1 sqrt(73)] \/ 6\n\nDemak, kvadrat tenglamaning yechimlari: x = (-7 + sqrt(73)) \/ 6 va x = (-7 - sqrt(73)) \/ 6."
+    },
+    {
+        "instruction": "Quyidagi so\u2018zning sinonimlarini toping: \u201cTenacious\u201d.",
+        "output": "Bu erda \"Tenacious\" so'zining ba'zi sinonimlari:\n\n1. Doimiy\n2. Belgilangan\n3. Qat'iy\n4. Sobit\n5. O\u2018jar\n6. Sabr-toqat\n7. Qattiq\n8. O'zgarmas\n9. Kuchli irodali\n10. Dogged."
+    },
+    {
+        "instruction": "Gapni ko'proq tavsiflovchi so'zlar bilan qayta yozing.",
+        "output": "O'yin juda qiziqarli va qiziqarli."
+    },
+    {
+        "instruction": "Berilgan maqolaning qisqacha mazmunini yarating.",
+        "output": "AQSh iqtisodiyoti 1989-2019 yillar oralig'ida ikki baravardan ko'proq o'sdi. Oldingi yigirma yilga qaraganda tezroq bu o'sishga axborot texnologiyalarining kengayishi, ishchilar unumdorligining oshishi, iste'mol talabi va tadqiqot va ishlanmalarga davlat sarmoyalari sabab bo'ldi. ."
+    },
+    {
+        "instruction": "Yaxshi restoran taklif qiling.",
+        "output": "Agar siz Los-Anjelesda (Kaliforniya) ajoyib restoran tajribasini qidirmoqchi bo'lsangiz, Bestia-ni sinab ko'rishingizni tavsiya qilaman. Ushbu italyan joyi rustik taomlarning ijodiy, ko'p mintaqaviy menyusini taklif etadi. U doimo mazali taomlari, ajoyib atmosferasi va a'lo xizmat ko'rsatishi uchun yuqori baholanadi."
+    },
+    {
+        "instruction": "94F ni Selsiyga aylantiring",
+        "output": "Agar siz 94 \u00b0 F ni Selsiyga aylantirmoqchi bo'lsangiz, aylantirish formulasi:\n\nSelsiy = (Farengeyt - 32) x 5\/9\n\n94\u00b0F qiymatini ulash:\n\nSelsiy = (94 - 32) x 5\/9\nSelsiy = 62 x 5\/9\nSelsiy = 34,4\n\nShuning uchun 94 \u00b0 F 34,4 \u00b0 S ga teng."
+    },
+    {
+        "instruction": "Uchburchakning maydonini hisoblang.",
+        "output": "Uchburchakning maydoni (tayanch x balandlik) \/ 2 bo'lgan formuladan foydalanib, biz berilgan kirish qiymatlari bilan maydonni hisoblashimiz mumkin.\n\nUchburchakning asosi 5 sm, balandligi esa 6 sm.\n\nShunday qilib, uchburchakning maydoni (5 sm x 6 sm) \/ 2 = 15 sm\u00b2 bo'ladi.\n\nShunday qilib, uchburchakning maydoni 15 sm\u00b2."
+    },
+    {
+        "instruction": "Do'stingiz uchun ijodiy tug'ilgan kun istaklarini yarating.",
+        "output": "\"Har kim so'rashi mumkin bo'lgan eng ajoyib do'stni tug'ilgan kuni bilan tabriklayman! Ushbu maxsus kunda barcha istaklaringiz amalga oshsin, qalbingiz quvonch va kulgiga to'lsin va dunyo taqdim etayotgan barcha sevgi va baxt sizni o'rab tursin. Bugun va har doim. Yana unutilmas xotiralarni birgalikda qo'lga kiritish uchun tabriklaymiz va mana yana bir sarguzasht, o'sish va cheksiz imkoniyatlar yili!\ud83c\udf89\ud83c\udf82\ud83c\udf88\""
+    },
+    {
+        "instruction": "Grammatik va sintaktik xatolarni tuzatish uchun quyidagi jumlani tahrirlang",
+        "output": "Siz ziyofatga kechikdingiz."
+    },
+    {
+        "instruction": "Gapni boshqa zamonda qayta yozing.",
+        "output": "U undan tushlikka qo'shilishini so'raydi. (kelasi zamon)"
+    },
+    {
+        "instruction": "Quyidagi uchta belgidan biri bilan quyidagi ma'lumotlarni tasniflang. 1. Alifbo tartibidagi ma'lumotlar\n2. Raqamli ma'lumotlar\n3. Alfa-raqamli ma'lumotlar",
+        "output": "1. Alifbo tartibidagi ma'lumotlar"
+    },
+    {
+        "instruction": "Quyidagi gapni birlik shaklidan ko\u2018plik shakliga o\u2018zgartiring.",
+        "output": "Mushuklar ichishadi."
+    },
+    {
+        "instruction": "Kuningizni tavsiflovchi besh so'zli jumla tuzing.",
+        "output": "Men har doim foydalanuvchilarga yordam beraman."
+    },
+    {
+        "instruction": "Quyidagi gapni tahlil qiling va to\u2018g\u2018ridan-to\u2018g\u2018ri predmetni toping.",
+        "output": "\"U kitob yozdi\" jumlasining bevosita ob'ekti \"kitob\" otidir. To'g'ridan-to'g'ri ob'ekt harakatning qabul qiluvchisi, bu holda \"kitob\" \"U\" sub'ekti tomonidan yozilgan narsadir."
+    },
+    {
+        "instruction": "O\u02bbrta G\u02bbarbda joylashgan AQShning 5 ta shtatlari ro\u02bbyxatini tuzing.",
+        "output": "1. Ogayo\n2. Indiana\n3. Michigan\n4. Illinoys\n5. Viskonsin"
+    },
+    {
+        "instruction": "x va y nolga teng bo'lmagan haqiqiy sonlar bo'lsin. m va M ning minimal qiymati va maksimal qiymati bo'lsin\n\n (|x + y|)\/(|x| + |y|),\nmos ravishda. M - m ni toping.",
+        "output": "Bizga ikkita nolga teng bo'lmagan x va y haqiqiy sonlar berildi va ifodaning minimal m va maksimal M ni topish so'raladi:\n\n(|x + y|)\/(|x| + |y|)\n\nMinimalni topish uchun biz ifodani iloji boricha kichikroq qilishni xohlaymiz. Chunki ikkalasi ham |x + y| va |x| + |y| manfiy emas, (|x + y|)\/(|x| + |y|) ham salbiy bo'lishi kerak. X = 1 va y = -1 ni o'rnatishimiz mumkin:\n\n(|x + y|)\/(|x| + |y|) = (|0|)\/(|1| + |-1|) = 0\/2 = 0\n\nBu ifodaning minimal qiymati 0 ekanligini ko'rsatadi.\n\nMaksimalni topish uchun biz ifodani iloji boricha kattaroq qilishni xohlaymiz. Uchburchak tengsizligi bilan biz buni bilamiz:\n\n|x + y| \u2264 |x| + |y|\n\nShunday qilib, bizda:\n\n(|x + y|)\/(|x| + |y|) \u2264 (|x| + |y|)\/(|x| + |y|) = 1\n\nBu ifodaning maksimal qiymati 1 ekanligini ko'rsatadi. Tenglik x = y bo'lganda sodir bo'ladi.\n\nDemak, ifoda diapazoni [0, 1], maksimal va minimal qiymatlar orasidagi farq esa:\n\nM - m = 1 - 0 = 1"
+    },
+    {
+        "instruction": "Siz o'rta maktab o'qituvchilariga o'qishni tushunish bo'yicha savollar berishda yordam berish uchun mo'ljallangan aqlli yordamchisiz.\nMatnning bir qismini hisobga olgan holda, siz o'quvchining o'qishni tushunish qobiliyatini tekshirish uchun ishlatilishi mumkin bo'lgan savol va javob juftligini o'ylab topishingiz kerak.\nUshbu savol\/javob juftligi bilan chiqishda siz quyidagi formatda javob berishingiz kerak:\n```\n{{\n    \"question\": \"$YOUR_QUESTION_HERE\",\n    \"javob\": \"$THE_ANSWER_HERE\"\n}}\n```\n``` orasidagi hamma narsa haqiqiy json bo`lishi kerak.\nIltimos, quyidagi matn uchun belgilangan JSON formatida savol\/javob juftligini toping:\n----------------\nIlgari, bo'yoq ostidagi bosma nashrdan foydalanish sanoat yoki yuqori darajadagi tijorat nashri bilan cheklangan. Bo'yoq ostidagi fotosuratlarni chop etish tibbiy tasvirlash, grafik san'atni tekshirish, xavfsizlik va radioeshittirish bilan bog'liq ilovalarda qo'llanilgan. Bugungi kunda u yuqori tezlikda, talab bo'yicha chop etishni talab qiladigan tadbirlarni suratga olish va fotostendlar yoki kiosklarda juda mashhur.\n\nAlps Electric uy iste'molchilari uchun 500-1000 dollar narx oralig'ida birinchi sifatli bo'yoq-sublimatsiya texnologiyasini kengroq auditoriyaga taqdim etgan holda ishlab chiqardi. (Ammo bu modellar haqiqiy sahifa printerlari emas edi, chunki ular ko\u02bbpchilik inkjet printerlar singari sahifa bo\u02bbylab tarqaladigan tor bosma kallakdan foydalangan.) Hozir bozorda 100 dollardan boshlanadigan bo\u02bbyoq-sublimatsiya printerlari, ayniqsa otkritkalar mavjud. - o'lchamli mobil foto printerlar.\n\nKichkina printerda lahzali fotosuratlarni arzon narxlarda chop etish imkoniyati ba'zi ilovalarda an'anaviy tezkor fotosuratlarni, masalan, karta printeri yordamida ID suratga olish o'rnini bosuvchi sublimatsiya yechimlarini bo'yashga olib keldi.\n\nBir nechta korporatsiyalar ish stoli o'lchamidagi qurilmalarni mustaqil printerlar sifatida va bosma kiosk va fotostend ilovalari uchun sotadi. Ushbu birliklarning ba'zilari umumiy printerlarga asoslangan. Ba'zi ishlab chiqaruvchilar o'zlarining printerlari bilan dasturiy ta'minot ishlab chiqish to'plamlarini taklif qilishadi va bu kompaniyalar tizim integratorlarini potentsial bozor sifatida jalb qilishga umid qilmoqdalar.\n\nIsh stoli o'lchamidagi mustaqil bo'yoq-pastki fotosurat printerlari ham fotosuratchilar tomonidan voqealarni suratga olishda ishlatiladi. Texnologiya fotosuratchilarga o'zlari ishtirok etayotgan tadbir davomida, minimal miqdordagi apparat vositalari bilan darhol laboratoriya sifatli nashrlarni ishlab chiqarish va sotish imkonini beradi.",
+        "output": "{\n    \"question\": \"Bo'yoq ostidagi fotosuratlarni chop etishning ba'zi ilovalari qanday?\",\n    \"javob\": \"Bo'yoq ostidagi fotosuratlarni chop etish tibbiy tasvirlash, grafik san'atni tekshirish, xavfsizlik va translyatsiya bilan bog'liq ilovalarda ishlatilgan.\"\n}"
+    },
+    {
+        "instruction": "A'zolarning oxirgi yig'ilishida klubni yaxshilash uchun 5 ta g'oya ro'yxatini tuzing.",
+        "output": "Klubni yaxshilash bo'yicha so'nggi a'zolar yig'ilishida taklif qilingan beshta g'oya:\n\n1. Ishtirok etishni oshirish: a'zolar o'rtasida ularning manfaatlariga mos keladigan tadbirlar va tadbirlar bilan ko'proq ishtirok etish va faollikni rag'batlantirish.\n\n2. Inklyuzivlikni rag'batlantirish: barcha a'zolar uchun, ularning kelib chiqishi yoki tajriba darajasidan qat'i nazar, yanada mehmondo'st va inklyuziv muhit yaratishga harakat qiling.\n\n3. Ta'lim imkoniyatlarini taqdim eting: a'zolarga yangi ko'nikmalarni o'rganish va shaxsiy va kasbiy rivojlanishida o'sishga yordam berish uchun seminarlar, ma'ruzalar yoki seminarlar taklif qiling.\n\n4. Tashkilotni kengaytirish: mahalliy tashkilotlar yoki korxonalar bilan hamkorlik qilish, ommaviy tadbirlarni o'tkazish yoki xabardorlikni oshirish uchun ijtimoiy mediadan foydalanish orqali klubning ko'rinishini va jamiyatdagi ta'sirini oshiring.\n\n5. Muloqotni yaxshilang: a'zolar o'rtasida muntazam axborot byulletenlari, onlayn forum yoki guruh chatlari orqali muloqotni kuchaytiring, bu esa klub voqealaridan xabardor bo'lib turishi va hamkorlikni kengaytirishga yordam beradi."
+    },
+    {
+        "instruction": "Quyidagi jumladan foydalanib javob beradigan savollar tuzing.",
+        "output": "1. O'sha kuni ob-havo qanday edi?\n2. Kunni qanday tasvirlagan bo'lardingiz?\n3. Kun yoqimli yoki ma'yus edi?\n4. Kun kooperativ va ochiq havoda ishlash uchun qulaymi?\n5. Qaysi ibora kunni eng yaxshi tasvirlaydi?"
+    },
+    {
+        "instruction": "\u201cIqtisodiyot\u201d so\u2018zining oddiy ta\u2019rifini yozing.",
+        "output": "Iqtisodiyot - bu jismoniy shaxslar, korxonalar, hukumatlar va boshqa tashkilotlar o'zlarining cheksiz ehtiyojlarini qondirish uchun cheklangan resurslardan qanday foydalanishni tanlashlarini va bu tanlovlardan kelib chiqadigan oqibatlarni o'rganadigan ijtimoiy fan. U tovarlar va xizmatlarni ishlab chiqarish, taqsimlash va iste'mol qilishni tavsiflash, tahlil qilish va tushuntirishga qaratilgan."
+    },
+    {
+        "instruction": "Imtihonni muvaffaqiyatli yakunlash uchun chegara ballini toping",
+        "output": "Kechirasiz, imtihonni muvaffaqiyatli yakunlash uchun chegara ballini aniqlash uchun menda yetarli ma\u2019lumot yo\u2018q. Cheklangan ball savollarning qiyinligi, baholash mezonlari va imtihonchilar yoki muassasa tomonidan belgilangan o'tish darajasi kabi omillarga bog'liq bo'ladi. Chiqib ketish balli qanday ekanligini aniqlash uchun menga qo'shimcha ma'lumot yoki texnik xususiyatlarni bera olasizmi."
+    },
+    {
+        "instruction": "Quyidagi matn bilan tanishish uchun mavzuli gap yarating.",
+        "output": "To'qnashuvning kuchayishi mahalliy aholining ommaviy ko'chirilishiga sabab bo'lmoqda."
+    },
+    {
+        "instruction": "Berilgan sonning faktorialini hisoblash funksiyasini yozing.",
+        "output": "Albatta! Pythonda berilgan sonning faktorialini hisoblash funksiyasini yozishning bir usuli:\n\n``` piton\ndef faktorial(n):\n    # Asosiy holat\n    agar n <= 1 bo'lsa:\n        qaytish 1\n    # Rekursiv holat\n    boshqa:\n        qaytish n * faktorial(n-1)\n\n# Misol: 5 ning faktorialini hisoblang\nsoni = 5\nprint(f\"{num} omili {faktorial(num)}\")\n```\n\nBu funksiya rekursiyadan foydalanadi, ya'ni u asosiy holatga (n <= 1) yetguncha o'zini chaqiradi. Asosiy registrga erishilganda, funktsiya 1 ni qaytaradi. Aks holda, funktsiya o'zini chaqirishda davom etadi va har bir chaqiruvda (n-1) n faktorialiga ko'paytiriladi, to asosiy holatga yetguncha."
+    },
+    {
+        "instruction": "Berilgan satrni katta harfga aylantirish funksiyasini yozing, agar u \u201cRad etilgan\u201d qatori bilan boshlanmasa.",
+        "output": "Mana funktsiyaning Python ilovasi:\n\n```\ndef uppercase_unless_rejected(string):\n    if string.startswith(\"Rad etilgan\"):\n        qaytish qatori\n    boshqa:\n        string.upper() ni qaytaring\n```\n\nBu funksiya birinchi navbatda satrning \u201cRad etilgan\u201d pastki qatori bilan boshlanishini tekshiradi. Agar shunday bo'lsa, u katta harflarni o'zgartirmasdan, oddiygina asl satrni qaytaradi. Agar boshqa tomondan, satr \"Rad etilgan\" bilan boshlanmasa, funktsiya asl satrning bosh harfi bo'lgan yangi satrni qaytaradi."
+    },
+    {
+        "instruction": "Massivdan musbat butun sonlarni ajratib oling?",
+        "output": "Berilgan massivdan musbat butun sonlarni chiqarish uchun filter() funksiyasidan foydalanishingiz mumkin, u lambda funksiyasida taqdim etilgan shartga asoslanib, True qiymatini qaytaradigan qiymatlarni qaytaradi.\n\nMana Python kod parchasi:\n\n```\narr = [5,-2,8,-7,3,-1,0,5]\n\nnatija = ro'yxat (filtr (lambda x: x > 0, arr))\n\nchop etish (natija)\n```\n\nChiqish: [5, 8, 3, 5]\n\nFiltr funksiyasi massivdagi har bir element bo\u2018ylab takrorlanadi va element 0 dan katta yoki yo\u2018qligini tekshiradi, ya\u2019ni bu musbat butun son. Agar bu rost bo'lsa, element natijalar ro'yxatiga kiritilgan. Keyinchalik, biz faqat ijobiy butun sonlarni o'z ichiga olgan natijalar ro'yxatini ko'rsatamiz."
+    },
+    {
+        "instruction": "Hech qanday kutubxonasiz raqamning kvadrat ildizini hisoblaydigan JavaScript funksiyasini yozing.",
+        "output": "Albatta, bu erda bir misol:\n\n```\nfunktsiyasini hisoblashSquareRoot(num) {\n  agar (son < 0) NaNni qaytarsa;\n  agar (num === 0) 0 ni qaytarsa;\n  x = son;\n  esa (to'g'ri) {\n    const new_x = (x + son \/ x) \/ 2;\n    agar (Math.abs(new_x - x) < 0,000001) new_x ni qaytaring;\n    x = new_x;\n  }\n}\n```\n\nBu funktsiya kvadrat ildizlarni hisoblash uchun Bobil usulidan foydalanadi, bu iterativ usul bo'lib, kvadrat ildizni baholashni quyidagi formuladan foydalanib qayta-qayta yaxshilaydi: `x_(n+1) = (x_n + num \/ x_n) \/ 2`. Joriy baho va oldingi hisob o\u02bbrtasidagi farq kichik epsilondan kam bo\u02bblgunga qadar tsikl davom etadi (bu holda, \u201c0,000001\u201d)."
+    },
+    {
+        "instruction": "Haskel yordamida bog'langan ro'yxatni o'zgartiring.",
+        "output": "Albatta, Haskelldagi bog'langan ro'yxatni naqsh moslashtirish va rekursiyadan foydalanib o'zgartirishning bir usuli:\n\n```\nma'lumotlar LinkedList a = Nil | Kamchiliklari a (LinkedList a)\n\nreverseLinkedList :: LinkedList a -> LinkedList a\nreverseLinkedList ro'yxati = reverseLinkedListHelper ro'yxati Nil\n  qayerda\n    reverseLinkedListHelper Nil acc = acc\n    reverseLinkedListHelper (Maniq tomonlari x xs) acc = reverseLinkedListHelper xs (Mijozlar x acc)\n```\n\n\"LinkedList\" turi ta'rifi \"a\" tipidagi bosh elementi va boshqa bog'langan ro'yxatning dumiga ega bo'lgan yakka bog'langan ro'yxatni ifodalaydi.\n\n`reverseLinkedListHelper` funksiyasi yordamchi funksiya bo\u02bblib, asl ro\u02bbyxatdagi har bir elementni takrorlash va uni asl ro\u02bbyxat bo\u02bbsh bo\u02bblgunga qadar \u201cacc\u201d to\u02bbplanuvchi ro\u02bbyxatining old qismiga qo\u02bbshish orqali ro\u02bbyxatni teskari aylantirish uchun quyruq rekursiyasidan foydalanadi. Naqsh mosligida Nil`).\n\n`reverseLinkedList` funksiyasi yuqori darajadagi funksiya bo`lib, `acc` to`planuvchi ro`yxatini bo`sh sifatida ishga tushiradi, so`ngra asl ro`yxat va bo`sh `acc` bilan `reverseLinkedListHelper` funksiyasini chaqiradi. Bu teskari bog'langan ro'yxatni qaytaradi."
+    },
+    {
+        "instruction": "Berilgan massivning eng uzun ortib boruvchi ketma-ketligini hisoblang?",
+        "output": "Berilgan massivning eng uzun ortib boruvchi quyi ketma-ketligi [7, 8, 9, 11]. Uning uzunligi 4 ga teng.\n\nBuni hisoblash uchun dinamik dasturlashdan foydalanib, har bir pozitsiyada tugaydigan eng uzun ortib boruvchi ketma-ketlikning uzunligini topib, keyin maksimal qiymatni olishingiz mumkin. Buni Pythonda qanday hisoblash mumkinligiga misol:\n\n``` piton\narr = [7, 10, 8, 11, 9, 5]\nn = len (arr)\nlis = [1]*n\n \ndiapazondagi i uchun (1, n):\n    (i) oralig'idagi j uchun:\n        agar arr[i] > arr[j] va lis[i]< lis[j] + 1:\n            lis[i] = lis[j]+1\n \nchop etish (maksimal (lis))\n```"
+    },
+    {
+        "instruction": "Ikki qator berilgan, bir satr boshqasining aylanishi yoki yo'qligini tekshiring?",
+        "output": "Ha, s2 - s1 ning aylanishi.\n\nBuni tekshirishning bir usuli s1 ni o'zi bilan birlashtirish va s2 birlashtirilgan qatorning pastki qatori ekanligini ko'rishdir. Bu ishlaydi, chunki agar satr aylantirilsa, uning belgilari hali ham bir xil tartibda bo'ladi, faqat satrda boshqa holatda bo'ladi. Agar s1 ni o'zi bilan birlashtirsak, barcha mumkin bo'lgan aylanishlar yangi satrda mavjud bo'lishini ko'rishimiz mumkin.\n\nBunday holda, agar s1 ni o'zi bilan birlashtirsak, biz \"suv shishasi\" ni olamiz. \"erbottlewat\" haqiqatan ham \"suv shishasi\" ning pastki qatoridir, shuning uchun s2 s1 ning aylanishidir."
+    },
+    {
+        "instruction": "Dastlabki 100 dollarlik depozit va yillik 6% foiz stavkasi bilan bank hisobvarag'idagi pul miqdorini hisoblang.",
+        "output": "Albatta! Dastlabki $100 depozit va yillik 6% stavkasi bilan bank hisobvarag'idagi pul miqdorini hisoblash uchun biz murakkab foiz formulasidan foydalanishimiz mumkin, bu A = P(1 + r\/n)^(nt) . Bunday holda, A hisobning kelajakdagi qiymati, P - dastlabki omonat, r - yillik foiz stavkasi, n - foizlar yiliga necha marta qo'shilganligi va t - yillar soni.\n\nYillar sonini ko'rsatmaganingiz uchun, siz 1 yilni nazarda tutasiz. Agar foizlar har yili qo'shilsa, u holda n = 1.\n\nBerilgan qiymatlarni formulaga almashtirib, biz quyidagilarni olamiz:\n\nA = 100(1 + 0,06\/1)^(1*1)\nA = 100(1 + 0,06)^1\nA = 100(1,06)^1\nA = 106\n\nShunday qilib, 1 yildan so'ng bank hisobvarag'ida 106 dollar qoldiq bo'ladi."
+    },
+    {
+        "instruction": "Butun sonlar massivi berilgan bo'lsa, birinchi takrorlanuvchi elementni qaytaring.",
+        "output": "Massivdagi birinchi takrorlanuvchi element 6 ga teng."
+    },
+    {
+        "instruction": "Takrorlanuvchi elementlar massividan ikkita takrorlanmaydigan elementni toping?",
+        "output": "Takrorlanuvchi elementlar qatoridagi ikkita takrorlanmaydigan elementni topish uchun xesh-xaritalardan foydalanishingiz mumkin. Bunga erishish uchun Python-da yozilgan kod misoli:\n\narr = [2, 3, 7, 9, 11, 2, 3, 11]\n\n# bo'sh xesh jadvalini yaratish\nhashTable = {}\n\n# massiv bo'ylab takrorlash\nmen uchun:\n    # elementning xesh jadvalida mavjudligi yoki yo'qligini tekshirish\n    agar men hashTableda bo'lsam:\n        # agar mavjud bo'lsa, uning qiymatini 1 ga oshiring\n        hashTable[i] = hashTable[i] + 1\n    boshqa:\n        # agar mavjud bo'lmasa, elementni xesh jadvaliga 1 qiymati bilan qo'shing\n        hashTable[i] = 1\n\n# natijani saqlaydigan bo'sh ro'yxat yaratish\nnatija = []\n\n# xesh jadvali orqali takrorlash\nmen uchun hashTableda:\n    # elementning qiymati 1 yoki yo'qligini tekshirish\n    agar hashTable[i] == 1:\n        # agar shunday bo'lsa, uni natijaga qo'shing\n        natija.ilova(i)\n\nprint(f'Ikkita takrorlanmaydigan element: {natija}')\n\n###Chiqish:\n# Ikki takrorlanmaydigan elementlar: [7, 9]"
+    },
+    {
+        "instruction": "Quyidagi jumlani takrorlang",
+        "output": "Tadqiqotchilar tomonidan batafsil tekshiruv o'tkazildi."
+    },
+    {
+        "instruction": "Siz o'rta maktab o'qituvchilariga o'qishni tushunish bo'yicha savollar berishda yordam berish uchun mo'ljallangan aqlli yordamchisiz.\nMatnning bir qismini hisobga olgan holda, siz o'quvchining o'qishni tushunish qobiliyatini tekshirish uchun ishlatilishi mumkin bo'lgan savol va javob juftligini o'ylab topishingiz kerak.\nUshbu savol\/javob juftligi bilan chiqishda siz quyidagi formatda javob berishingiz kerak:\n```\n{{\n    \"question\": \"$YOUR_QUESTION_HERE\",\n    \"javob\": \"$THE_ANSWER_HERE\"\n}}\n```\n``` orasidagi hamma narsa haqiqiy json bo`lishi kerak.\nIltimos, quyidagi matn uchun belgilangan JSON formatida savol\/javob juftligini toping:\n----------------\nSirenalarning qichqirig'i va toshbo'rondagi po'latning qiyqirig'i qorong'u, qorong'u ko'chalarda aks-sado berib turardi. Qo'rqib ketgan Sharqiy Berlinliklar o'zlarining pardalari orqasidan bloklarga cho'zilgan harbiy karvonlarni ko'rishdi. Avvaliga mototsiklchilar, keyin jiplar, yuk mashinalari va avtobuslar po'lat dubulg'ali Sharqiy Germaniya qo'shinlari bilan to'lib-toshgan. Ularning ortidan tanklar shitirlashdi - Rossiyada ishlab chiqarilgan T-34 va T-54. Har bir katta chorrahada bir vzvod qochib, to'xtab qoldi, qurollar shay holatda. Qolganlari sektor chegarasiga, 25 milyalik chegaraga yo'l olishdi, u Berlinning yuragini tishli shishadek kesib o'tadi. Qo'shinlar ko'plab chegara punktlariga yetib kelganlarida, yuk mashinalari tikanli simlar, beton ustunlar, yog'och otlar, tosh bloklar, pichog'lar va belkuraklarni tushirib yuborishdi. To'rt soatdan keyin tong otganda, sakkiz yil ichida birinchi marta Sharqiy Berlinni G'arbdan devor ajratdi.",
+        "output": "{\n    \"question\": \"Qo'shinlar Sharqiy Berlin va G'arbiy Berlin o'rtasidagi chegarani to'sib qo'yish uchun nimadan foydalanganlar?\",\n    \"javob\": \"Yuk mashinalari tikanli simlar, beton ustunlar, yog'och otlar, tosh bloklar, Sharqiy Berlin va G'arbiy Berlin o'rtasidagi chegarani to'sib qo'yish uchun nayzalar va belkuraklarni tushirish uchun ishlatilgan.\"\n}"
+    },
+    {
+        "instruction": "Menga veb-xizmat doirasi haqida batafsil ma'lumot bering.",
+        "output": "Veb-xizmat - bu tarmoq orqali mashinalar o'rtasidagi o'zaro ta'sirni qo'llab-quvvatlash uchun mo'ljallangan dasturiy ta'minot tizimi. U kompyuterlarga veb-xizmatlar ramkasi deb nomlanuvchi umumiy qoidalar va protokollar to'plami orqali bir-biri bilan ma'lumot almashish va almashish imkonini beradi. Ramka mohiyatan standartlar va texnologiyalarning yig'indisi bo'lib, ular kompyuterlar bilan muloqot qilish va birgalikda ishlash imkonini beradi.\n\nVeb-xizmatlarning asosini to'rtta asosiy texnologiya tashkil etadi: XML (kengaytirilgan belgilash tili), SOAP (Oddiy ob'ektga kirish protokoli), WSDL (veb xizmatlarini tavsiflash tili) va UDDI (universal tavsif, kashfiyot va integratsiya).\n\nXML - bu mashinalar o'rtasida almashinadigan formatda ma'lumotlarni kodlash uchun ishlatiladigan belgilash tili. Bu moslashuvchan va keng tarqalgan texnologiya bo'lib, uni veb-xizmatlar uchun mashhur tanlovga aylantiradi. U veb-xizmatlar o'rtasida ma'lumotlarni aniqlash va almashish uchun umumiy sintaksisni taqdim etadi.\n\nSOAP - bu ma'lumotlarni uzatish va veb-xizmat usullarini chaqirish uchun ishlatiladigan xabar almashish protokoli. U veb-xizmatlar o'rtasida ma'lumot almashish vositalarini taqdim etadi va xabarlar formati va tuzilishini aniqlash uchun javobgardir. SOAP xabarlari odatda HTTP orqali yuboriladi, lekin boshqa transport protokollari orqali ham yuborilishi mumkin.\n\nWSDL - bu veb-xizmatning funksionalligini tavsiflash uchun ishlatiladigan XML-ga asoslangan til. U xizmatning mashina tomonidan o'qiladigan hujjatlarini taqdim etadi va xizmat taqdim etishi mumkin bo'lgan usullar va ma'lumotlar turlarini belgilaydi. WSDL mijozlarga xizmat imkoniyatlarini kashf qilish va u bilan ishlash uchun kod yaratish imkonini beradi.\n\nUDDI - bu biznes uchun veb-xizmatlarni ro'yxatga olish va ochish uchun platformadan mustaqil, XML-ga asoslangan reestr. U mijozlarga kerakli xizmatlarni topish va ular bilan muloqot qilish uchun zarur ma'lumotlarni olish imkonini beruvchi xizmatlar katalogini taqdim etadi.\n\nXulosa qilib aytadigan bo'lsak, veb-xizmatlar ramkasi - bu mashinalarga standartlashtirilgan tarzda bir-biri bilan ma'lumot almashish va almashish imkonini beradigan texnologiyalarning kombinatsiyasi. Ramka ochiq standartlarga asoslangan va keng tarqalgan bo'lib qabul qilingan, bu esa tashkilotlarga o'z faoliyatida veb-xizmatlarni integratsiyalash va ulardan foydalanishni osonlashtiradi."
+    },
+    {
+        "instruction": "Internet tarixini tavsiflovchi vaqt jadvalini yarating",
+        "output": "1960-yillar - Qo'shma Shtatlardagi kompyuter olimlari orasida keng maydonli kompyuter tarmoqlari tushunchasi paydo bo'ldi.\n\n1969 yil - Ilg'or tadqiqot loyihalari agentligi (ARPA) tomonidan birinchi operativ ma'lumotlar tarmog'i ARPANET ishga tushirildi.\n\n1971 yil - Rey Tomlinson elektron pochtani ixtiro qildi, bu xabarlarni bir kompyuterdan ikkinchisiga yuborish imkonini beradi.\n\n1972 yil - Vint Cerf va Robert Kan Internetning markazida joylashgan asosiy aloqa protokollari bo'lgan Transmission Control Protocol (TCP) va Internet Protocol (IP) ni ishlab chiqdilar.\n\n1974 yil - Internetni yaratish bo'yicha taklif e'lon qilindi, u ma'lumotlarni uzatishning asosiy texnologiyasi sifatida paketli kommutatsiya kontseptsiyasini o'rnatdi.\n\n1983 yil - ARPANET tobora ortib borayotgan harbiy va fuqarolik ilovalarini joylashtirish uchun MILNET va yangi ARPANET ikkita alohida tarmoqqa bo'lingan.\n\n1989 yil - Tim Berners-Li Butunjahon Internet tarmog'ini taklif qildi, bu olimlar uchun Internetda ma'lumot almashishni osonlashtirish uchun mo'ljallangan tizim.\n\n1990 yil - ARPANET to'xtatildi va World Wide Web ishga tushirildi.\n\n1991 yil - birinchi veb-sayt info.cern.ch internetga kirdi.\n\n1993 yil - Mosaic veb-brauzerining chiqarilishi internetni yanada kengroq auditoriya uchun ochiq qildi.\n\n1994 yil - Amazon va eBay asos solishi bilan elektron tijorat paydo bo'ldi.\n\n1995 yil - dot-com bumi boshlandi va internet startaplari katta sarmoyalarni oldi.\n\n2000 yil - dot-com pufakchasi portladi, lekin yuqori tezlikdagi keng polosali internetga kirish davri boshlandi.\n\n2004 yil - Ijtimoiy tarmoqlarning yuksalishi Facebookning ishga tushirilishi bilan boshlandi.\n\n2005 yil - YouTube ishga tushirildi, bu onlayn video almashish davrini boshlab berdi.\n\n2007 yil - iPhone-ning ishga tushirilishi mobil internetga kirishda muhim lahza bo'ldi.\n\n2010 yil - Google Drive va Dropbox kabi xizmatlarning ko'tarilishi bilan bulutli hisoblash kontseptsiyasi asosiy oqimga aylandi.\n\nBugungi kunda internet rivojlanishda va kengayishda davom etib, hayotimiz, muloqotimiz va biznesimizning tobora ajralmas qismiga aylanib bormoqda."
+    },
+    {
+        "instruction": "Ikkilik daraxt berilgan bo'lsa, u ikkilik qidiruv daraxti yoki yo'qligini tekshiring. Buning uchun Java funksiyasini yozing. Node klassi amalga oshirilgan deb faraz qiling.",
+        "output": "Ikkilik daraxt ikkilik qidiruv daraxti (BST) ekanligini tekshirish uchun biz tugunning chap pastki daraxtidagi barcha tugunlar joriy tugun qiymatidan kichik yoki teng bo\u2018lishini ta\u2019minlashimiz kerak, shu bilan birga o\u2018ng pastki daraxtdagi barcha tugunlar esa joriy tugun qiymatidan kichik yoki teng bo\u2018lishi kerak. tugun joriy tugun qiymatidan katta. Quyida ikkilik daraxt BST ekanligini tekshiradigan Java funksiyasi mavjud.\n\n```\nommaviy mantiqiy isBST (tugun ildizi) {\n    qaytish:BST(root, Integer.MIN_VALUE, Integer.MAX_VALUE);\n}\n\nxususiy mantiqiy isBST(tugun tugun, int min, int max) {\n    agar (tugun == null) {\n        haqiqatni qaytarish;\n    }\n    agar (tugun.data < min || tugun.data > maksimal) {\n        yolg'onni qaytarish;\n    }\n    qaytish isBST(tugun.chap, min, tugun.data - 1) && isBST(tugun.o'ng, tugun.data + 1, maks);\n}\n```\n\n`isBST` funksiyasi ikkilik daraxtning ildiz tugunini oladi va xususiy `isBST` funksiyasini boshlang`ich parametrlar sifatida minimal va maksimal mumkin bo`lgan butun son qiymatlari bilan chaqiradi. `isBST` funksiyasi tugunning null yoki yo`qligini tekshiradi, bu holda u haqiqatni qaytaradi. Aks holda, u tugun qiymati berilgan min va maks oralig'ida ekanligini tekshiradi. Agar yo'q bo'lsa, u noto'g'ri qaytaradi, chunki tugun BST xususiyatini buzadi. Agar qiymat berilgan diapazonda bo'lsa, u chap va o'ng pastki daraxtlarni yangilangan min va maksimal qiymatlari bilan rekursiv tekshiradi. Agar ikkala pastki daraxt rost bo'lsa, funktsiya true qiymatini qaytaradi."
+    },
+    {
+        "instruction": "Tarixiy narxlarni hisobga olgan holda, aktsiyalarni sotib olish va sotishdan maksimal foydani topish uchun algoritmni ishlab chiqing.",
+        "output": "Aktsiyalarni sotib olish va sotishdan maksimal foydani topishning oddiy algoritmi:\n\n1. O\u2018zgaruvchilarni ishga tushiring:\n   - min_narx = tarixiy_narxlar[0] (minimal qiymatni birinchi narxga belgilang)\n   - max_profit = 0 (maksimal foydani nolga o'rnating)\n\n2. Tarixiy narxlarda har bir narxni aylanib chiqing:\n   - Agar joriy narx minimal narxdan past bo'lsa, minimal narxni joriy narx bilan yangilang.\n   - Aks holda, joriy narxdan minimal narxni ayirib, joriy foydani hisoblang.\n   - Agar joriy foyda maksimal foydadan katta bo'lsa, maksimal foydani joriy foyda bilan yangilang.\n\n3. Maksimal foydani qaytaring.\n\nMana Python-da kodni amalga oshirish:\n\n```\ndef max_stock_profit(tarixiy_narxlar):\n    min_narx = tarixiy_narxlar[0]\n    maksimal_foyda = 0\n    \n    tarixiy_narxlardagi narx uchun:\n        agar narx < min_narxi:\n            min_narx = narx\n        boshqa:\n            foyda = narx - min_narx\n            agar foyda > maksimal_profit:\n                max_profit = foyda\n                \n    max_profitni qaytaring\n```\n\nAksiyani sotib olish va sotish orqali olinadigan maksimal foydani olish uchun oddiygina argument sifatida tarixiy narxlar ro\u2018yxati bilan \u201cmax_stock_profit\u201d funksiyasini chaqiring."
+    }
+]
