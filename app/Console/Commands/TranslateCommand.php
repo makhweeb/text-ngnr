@@ -32,18 +32,22 @@ class TranslateCommand extends Command
 
         $translationClient = new TranslationServiceClient();
         $data = json_decode(\File::get(base_path("51k.json")), true);
-        $newContent = [];
+        $newContent = json_decode(\File::get(base_path("translated-51k.json")), true);
         $collection = collect($data);
         // dd($collection->slice(0, 50)->all());
         // file_put_contents(base_path("51k.json"), json_encode($collection->values(), JSON_PRETTY_PRINT));
 
         foreach ($collection->chunk(50) as $idx => $items) {
+            if($idx <= 409) {
+                continue;
+            }
+
             $this->info("Number of current collection: " . ($idx + 1));
 
             $cbs = [];
 
             foreach ($items as $item) {
-                $cbs[] = function () use ($translationClient, $item, &$newContent) {
+                $cbs[] = function () use ($translationClient, $item) {
                     $response = $translationClient->translateText(
                         [
                             $item['instruction'],
