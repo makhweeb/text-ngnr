@@ -14,21 +14,26 @@ use Illuminate\Support\Facades\Artisan;
 |
 */
 
+function isJson($string) {
+    json_decode($string);
+    return json_last_error() === JSON_ERROR_NONE;
+ }
+
 Artisan::command('generate', function () {
     dump('Generating...');
-    $filtered = file_get_contents('filtered-51k.json');
+    $filtered = file_get_contents('filtered-from-html-51k.json');
 
-    $data = json_decode($filtered, true);
+    dd(isJson($filtered));
 
-    foreach ($data as $key => $value) {
-        $instruction = html_entity_decode($value['instruction']);
-        $input = html_entity_decode($value['input']);
-        $output = html_entity_decode($value['output']);
+    // foreach ($data as $key => $value) {
+    //     $instruction = html_entity_decode($value['instruction']);
+    //     $input = html_entity_decode($value['input']);
+    //     $output = html_entity_decode($value['output']);
 
-        $data[$key]['instruction'] = $instruction;
-        $data[$key]['input'] = $input;
-        $data[$key]['output'] = $output;
-    }
+    //     $data[$key]['instruction'] = $instruction;
+    //     $data[$key]['input'] = $input;
+    //     $data[$key]['output'] = $output;
+    // }
 
-    file_put_contents('filtered-from-html-51k.json', json_encode($data, JSON_PRETTY_PRINT));
+    // file_put_contents('filtered-from-html-51k.json', json_encode($data, JSON_PRETTY_PRINT));
 });
